@@ -1,4 +1,4 @@
-:tocdepth: 1
+:tocdepth: 2
 
 .. sectnum::
 
@@ -31,33 +31,8 @@ The deep level of engagement described in these programs comes with specific rig
 
 The Project will not rely on the contributions from non-Rubin-staff team members to fulfill core construction requirements and operational readiness criteria. The intent for these contributions is to add value to the commissioning effort. No papers presenting novel scientific results based on commissioning data may be posted/submitted by anyone before the associated Data Preview release date (see REFERENCE). The focus of the commissioning effort is on demonstrating operational readiness rather than realizing scientific discoveries with the commissioning data itself.
 
-Add content here.
-See the `reStructuredText Style Guide <https://developer.lsst.io/restructuredtext/style.html>`__ to learn how to create sections, links, images, tables, equations, and more.
-
-Here is a list:
-
-- Item 1
-- Item 2
-- Item 3
-
-Another list
-
-- First item
-
-  Second paragraph for first item, needs to be consistently indented.
-- Second item
-
-- You can put spaces between items, or not.
-
-- Hierarchical lists are also possible
-
-  - Put a blank space before the sub-list
-  - And indent the sub-list consistently
-
-- Last item.
-
-Groups
-======
+Contributing Groups
+===================
 
 .. include:: groups.rst
 
