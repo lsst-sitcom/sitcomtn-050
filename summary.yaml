@@ -1,0 +1,310 @@
+groups:
+  ESP-BCM-S2:
+    contact: Dr. Ignacio Sevilla-Noarbe
+    contribution: Technical Support in Commissioning
+    members:
+      - Ignacio Sevilla
+      - Cristobal Padilla
+      - Otger Ballester
+      - Alexandre Pérez
+      - Jordi Arellano
+      - Ricard Casas
+  FRA-INP-S6:
+    contact: Dr. Jérémy Neveu
+    contribution: Calibration hardware (CBP, flat screen, dome illumination, etc.)
+    members:
+      - Jérémy Neveu
+      - Laurent Le Guillou
+      - Eduardo Sepulveda
+      - Sylvain Baumont
+  FRA-INP-S7:
+    contact: Dr. Marc Moniez
+    contribution: AuxTel support
+    members:
+      - Marc Moniez
+      - Sylvie Dagoret-Campagne
+      - Martin Monroy
+      - Jérémy Neveu
+      - Laurent Le Guillou
+  FRA-INP-S8:
+     contact: Dr. Pierre Antilogus
+     contribution: Commissioning at pixel level, data quality and “On-Sky” calibration
+     members:
+      - Dominique Boutigny
+      - Sabine Elles
+      - Thibault Guillemin
+      - Fabio Hernandez
+      - Fabrice Feinstein
+      - Dominique Fouchez
+      - Benjamin Racine
+      - André Tilquin
+      - Emmanuel Gangler
+      - Fabrice Jammes
+      - Nicoleta Pauna
+      - Pierre Antilogus
+      - Pierre Astier
+      - Claire Juramy
+      - Aurélien Barrau
+      - Johan Brégeon
+      - Céline Combet
+      - Marine Kuna
+      - Johann Cohen-Tanugi
+  FRA-INP-S9:
+    contact: Dr. Cyrille Doux
+    contribution: Object detection, weak lensing, and deblending
+    members:
+      - Eric Aubourg
+      - Cécile Roucelle
+      - Alexandre Boucaud
+      - Justine Zeghal
+      - Biswajit Biswas
+      - Axel Guinot
+      - Marina Ricci
+  FRA-INP-S10:
+    contact: Dr. Alexandre Boucaud
+    contribution: Camera hardware optimization
+    members:
+      - Eric Aubourg
+      - Cécile Roucelle
+      - Alexandre Boucaud
+      - Justine Zeghal
+      - Biswajit Biswas
+      - Axel Guinot
+      - Marina Ricci
+  ITA-INA-S21:
+    contact: Dr. Felice Cusano
+    contribution: Engineering support at Telescope commissioning
+    members:
+      - Felice Cusano
+      - Rodolfo Canestrari
+      - Gabriele Rodeghiero
+      - Enrico Giro
+  ITA-INA-S22:
+    contact: Dr. Giuliana Fiorentino
+    contribution: Image quality analysis
+    members:
+      - Rodolfo Canestrari
+      - Gabriele Rodeghiero
+      - Enrico Giro
+      - Marcella Di Criscienzo
+      - Giuliana Fiorentino
+      - Davide Massari
+      - Luciano Lanteri
+      - Salvatore Savarese
+      - Pietro Schipani
+      - Vincenzo Ripepi
+      - Filippo D'Ammando
+      - Vincenzo Testa
+      - Laura Schreiber
+  ITA-INA-S23:
+    contact: Dr. Giuseppe Riccio
+    contribution: Instrument, telemetry, and science trend analysis and statistical characterization
+    members:
+      - Giuseppe Riccio
+      - Stefano Cavuoti
+      - Massimo Brescia
+  JAP-JPG-S2:
+    contact: Dr. Yutaka Komiyama
+    contribution: TBD
+    members:
+      - TBD
+  KOR-KAS-S1:
+    contact: Dr. Narae Hwang
+    contribution: Observing support
+    members:
+      - Narae Hwang
+      - Moo-Young Chun
+  UKD-UKD-S13:
+    contact: Graham Smith
+    contribution: Support for active optics system commissioning and science validation
+    members:
+      - Aaron Watkins
+      - Jon Loveday
+      - Graham Smith
+      - Tom Wilson
+      - Dan Ryczanowski
+      - Gavin Dalton
+      - Will Sutherland
+      - Tim Naylor
+      - Raphael Shirley
+      - Nicholas Walton
+      - Boris Leistedt
+  UKD-UKD-S7:
+    contact: Prof Ian Shipsey
+    contribution: Science validation for sensor characterization and PSF modelling
+    members:
+      - Ian Shipsey
+      - Jeff Tseng
+      - Farrukh Azfar
+      - Daniel Weatherill
+  US/Chile-01:
+    contact: Louise Edwards
+    contribution: Observing support
+    members:
+      - Louise Edwards
+  US/Chile-02:
+    contact: Marcelle Soares-Santos
+    contribution: Observing support and camera commissioning support in Chile
+    members:
+      - Johnny Esteves
+      - Marcelle Soares-Santos
+  US/Chile-03:
+    contact: Siegfried Eggl
+    contribution: Science validation of Solar System Processing pipeline
+    members:
+      - Siegfried Eggl
+      - Shirley Shah
+  US/Chile-04:
+    contact:  Mike Jarvis
+    contribution: Science validation of PSF characterization
+    members:
+      - Mike Jarvis
+      - Rachel Mandelbaum
+      - Tianqing Zhang
+      - Claire-Alice Hébert
+      - Sid Mau
+      - Pat Burchat
+      - Josh Meyers
+      - Aaron Roodman
+      - Theo Schutt
+      - Chris Stubbs
+      - Elana Urbach
+      - Eske Pedersen
+      - Brodi Elwood
+      - Dan Weatherill
+      - Arun Kannawadi
+      - Erfan Nourbakhsh
+  US/Chile-05:
+    contact: Matthew R. Becker
+    contribution: Science validation for weak lensing shear estimation and development of advanced image coaddition methods
+    members:
+      - Matthew R. Becker
+      - Arun Kannawadi
+      - Erin Sheldon
+      - Michael Troxel
+      - David Kirkby
+      - Theo Schutt
+      - Erfan Nourbakhsh
+  US/Chile-06:
+    contact: Brant Robertson
+    contribution: Science validation of galaxy photometry
+    members:
+      - Brant Robertson
+      - Ryan Hausen
+  US/Chile-07:
+    contact: Matthew J Holman
+    contribution: Science validation for Solar System object linkage
+    members:
+      - Matthew J. Holman
+      - Zachary Murray
+  US/Chile-08:
+    contact: Dave Monet
+    contribution: Science validation for astrometry
+    members:
+      - Dave Monet
+      - Mike Rich, Students
+      - John Gizis
+      - Markus Rabus
+  US/Chile-09:
+    contact: Simon Birrer
+    contribution: Science validation for strong gravitational lensing
+    members:
+      - Simon Birrer
+      - Paul Schechter
+      - Tansu Daylan
+  US/Chile-10:
+    contact: Markus Rabus
+    contribution: Observing support and science validation of time series photometry
+    members:
+      - Markus Rabus
+  US/Chile-11:
+    contact: Michael Wood-Vasey
+    contribution: Science validation for difference Image Analysis (DIA) including parameter / algorithm tuning, masking, and template generation
+    members:
+      - Michael Wood-Vasey
+      - Shu Liu
+      - Bruno Sánchez
+      - Gautham Narayan
+      - Amanda Wasserman
+      - Rick Kessler
+      - Bob Armstrong
+      - Saurabh Jha
+      - Federica Bianco
+      - Tatiana Acero Cuellar
+      - Benjamin Racine
+      - Dominique Fouchez
+  US/Chile-12:
+    contact: Ian Dell'Antonio
+    contribution: Science validation for sky background modeling and low-surface brightness science
+    members:
+      - Ian Dell’Antonio
+      - Stefanie Hersey
+      - Zacharias Escalante
+      - Alex Drlica-Wagner
+      - Yao-Yuan Mao
+      - Alexie Leauthaud
+      - Yuanyuan Zhang
+      - Annika Peter
+      - Anja von der Linden
+      - Matt Kwiecien
+      - Tesla Jeltema
+  US/Chile-13:
+    contact: Eric Gawiser
+    contribution: Science validation for galaxy clustering analyses
+    members:
+      - Andrina Nicola
+      - Humna Awan
+      - Eli Rykoff
+      - Josh Meyers
+      - Javi Sánchez
+      - Rachel Mandelbaum
+      - Anze Slosar
+      - Irene Moskowitz
+      - Adam Broussard
+      - Eric Gawiser
+  US/Chile-14:
+    contact: Elana Urbach
+    contribution: Science validation of photometric calibration for early science
+    members:
+      - Elana Urbach
+      - Christopher Stubbs
+      - Eske Pedersen
+      - Saurabh Jha
+      - Conor Larison
+      - Douglas Tucker
+      - Matt Wiesner
+      - Daniel Perrefort
+      - Michael Wood-Vasey
+      - Gautham Narayan
+      - Konstantin Malanchev
+      - Melissa Butner
+      - J. Allyn Smith
+  US/Chile-15:
+    contact: David Kirkby
+    contribution: Support for commissioning data visualization and drill-down analysis
+    members:
+      - David Kirkby
+  US/Chile-16:
+    contact: Anja von der Linden
+    contribution: Science validation of galaxy photometry and testing deblending algorithms in cluster fields
+    members:
+      - Anja von der Linden
+      - Ian Dell’Antonio
+      - Zacharias Escalante
+      - Shuang Liang
+      - Radhakrishnan Srinivasan
+      - Shenming Fu
+      - Camille Avestruz
+      - Ismael Mendoza
+      - Simona Mei
+      - Peter Melchior
+      - Doug Clowe
+      - Rémy Joseph
+      - Cristobal Sifon
+  US/Chile-17:
+    contact: Simona Murgia
+    contribution: Investigation and mitigation of sensor anomalies for ComCam and LSSTCam detectors using calibration and on-sky data
+    members:
+      - Simona Murgia
+      - Alex Broughton
+      - Johanna Paine
