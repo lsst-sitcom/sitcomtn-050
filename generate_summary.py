@@ -1,6 +1,6 @@
 import yaml
 
-def writeGroup(data, key):
+def writeGroupRST(data, key):
     contact = data["groups"][key]["contact"]
     contribution = data["groups"][key]["contribution"]
     members = data["groups"][key]["members"]
@@ -8,8 +8,9 @@ def writeGroup(data, key):
     writer.write(f'**{key}:** {contact}\n\n')
     writer.write(f'*{contribution}*\n\n')
 
-    for name in members:
-        writer.write(f'- {name}\n')
+    #for name in members:
+    #    writer.write(f'- {name}\n')
+    writer.write(", ".join(members) + '\n')
 
 
 def writeGroupMarkdown(data, key):
@@ -47,7 +48,7 @@ with open(outfile, 'w') as writer:
 
     for key in data["groups"].keys():
         if "US/Chile" not in key:
-            writeGroup(data, key)
+            writeGroupRST(data, key)
 
     writer.write('\n\n')
     writer.write('US/Chile Community Engagement with Rubin Observatory Commissioning Effort Program\n')
@@ -55,7 +56,7 @@ with open(outfile, 'w') as writer:
 
     for key in data["groups"].keys():
         if "US/Chile" in key:
-            writeGroup(data, key)
+            writeGroupRST(data, key)
 
 """
 outfile = 'summary.md'
