@@ -6,20 +6,20 @@
 
 .. TODO: Delete the note below before merging new content to the main branch.
 
-.. note::
+.. warning::
 
    **This technote is a work-in-progress.**
 
 Abstract
 ========
 
-This technote summarizes the groups and individuals making in-kind contributions to SIT-Com
+This technote summarizes the groups and individuals making in-kind contributions to the Vera C. Rubin Observatory System Integration, Test, and Commissioning (SIT-Com) effort.
 
 Introduction
 ============
 
-The Vera C. Rubin Observatory recognizes the individuals listed below making value-added non-financial contributions to the System Integration, Test, and Commissioning (SIT-Com) effort in order to facilitate an efficient transition to LSST Operations. 
-By sharing their technical and scientific expertise, these individuals enhance and diversify the Project's planned commissioning effort. 
+The Vera C. Rubin Observatory recognizes the individuals listed below making value-added non-financial contributions to the System Integration, Test, and Commissioning (SIT-Com) effort in order to facilitate an efficient transition to LSST Operations.
+By sharing their technical and scientific expertise, these individuals enhance and diversify the Project's planned commissioning effort.
 The named participants will work directly alongside Rubin Observatory staff and will have access to commissioning data products as they are acquired in order to complete their assignments.
 
 The participating individuals were invited to join the Rubin Observatory SIT-Com effort through one of two programs:
@@ -27,21 +27,25 @@ The participating individuals were invited to join the Rubin Observatory SIT-Com
 1. US/Chile Commissioning Announcement of Opportunity Program and
 2. International In-Kind Contribution Program where the recipient group is the “Rubin Commissioning Team”.
 
-The two types of contribution are being managed by Rubin Observatory as a combined resource. 
-As indicated below, the in-kind contributions are organized into discrete groups of like interests and skills with a designated point of contact. 
+The two types of contribution are being managed by Rubin Observatory as a combined resource.
+As indicated below, the in-kind contributions are organized into discrete groups of like interests and skills with a designated point of contact.
 We anticipate that participants will engage in multiple aspects of commissioning according to their abilities and the schedule and priorities of Rubin Observatory.
 
-The deep level of engagement described in these programs comes with specific rights and responsibilities, as outlined https://sitcomtn-010.lsst.io/ (Section 4.1). 
-Working as part of the SIT-Com team offers direct experience with and deep understanding of the full chain from observations to final data products and data access tools that will be released to the science community, including the hardware, image properties, and Science Pipeline algorithms. 
+The deep level of engagement described in these programs comes with specific rights and responsibilities, as outlined https://sitcomtn-010.lsst.io/ (Section 4.1).
+Working as part of the SIT-Com team offers direct experience with and deep understanding of the full chain from observations to final data products and data access tools that will be released to the science community, including the hardware, image properties, and Science Pipeline algorithms.
 Through their efforts, these individuals will contribute to the readiness of Rubin Observatory to deliver its science products to the global Rubin community.
 
-The Project will not rely on the contributions from non-Rubin-staff team members to fulfill core construction requirements and operational readiness criteria. 
-The intent for these contributions is to add value to the commissioning effort. 
-No papers presenting novel scientific results based on commissioning data may be posted/submitted by anyone before the associated Data Preview release date (see REFERENCE). 
+The Project will not rely on the contributions from non-Rubin-staff team members to fulfill core construction requirements and operational readiness criteria.
+The intent for these contributions is to add value to the commissioning effort.
+No papers presenting novel scientific results based on commissioning data may be posted/submitted by anyone before the associated Data Preview release date (see REFERENCE).
 The focus of the commissioning effort is on demonstrating operational readiness rather than realizing scientific discoveries with the commissioning data itself.
 
 Contributing Groups
 ===================
+
+.. note::
+
+   Any proposed updates to this list of contributions (e.g., for early career scientists moving between positions) should occur via a pull request with suggested revisions to the summary.yaml file in this repository.
 
 .. include:: groups.rst
 
