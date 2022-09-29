@@ -202,7 +202,7 @@ groups:
     contribution: Science validation for astrometry
     members:
       - Dave Monet
-      - Mike Rich, Students
+      - Mike Rich
       - John Gizis
       - Markus Rabus
   US/Chile-09:
@@ -284,6 +284,7 @@ groups:
     contribution: Support for commissioning data visualization and drill-down analysis
     members:
       - David Kirkby
+      - Matt Dowicz
   US/Chile-16:
     contact: Anja von der Linden
     contribution: Science validation of galaxy photometry and testing deblending algorithms in cluster fields

@@ -150,7 +150,7 @@ Matthew J. Holman, Zachary Murray
 
 *Science validation for astrometry*
 
-Dave Monet, Mike Rich, Students, John Gizis, Markus Rabus
+Dave Monet, Mike Rich, John Gizis, Markus Rabus
 
 
 **US/Chile-09:** Simon Birrer
@@ -199,7 +199,7 @@ Elana Urbach, Christopher Stubbs, Eske Pedersen, Saurabh Jha, Conor Larison, Dou
 
 *Support for commissioning data visualization and drill-down analysis*
 
-David Kirkby
+David Kirkby, Matt Dowicz
 
 
 **US/Chile-16:** Anja von der Linden
