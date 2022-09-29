@@ -4,63 +4,63 @@ International In-Kind Contribution Program
 ------------------------------------------
 
 
-**ESP-BCM-S2:** Dr. Ignacio Sevilla-Noarbe
+**ESP-BCM-S2:** Ignacio Sevilla-Noarbe
 
 *Technical Support in Commissioning*
 
 Ignacio Sevilla, Cristobal Padilla, Otger Ballester, Alexandre Pérez, Jordi Arellano, Ricard Casas
 
 
-**FRA-INP-S6:** Dr. Jérémy Neveu
+**FRA-INP-S6:** Jérémy Neveu
 
 *Calibration hardware (CBP, flat screen, dome illumination, etc.)*
 
 Jérémy Neveu, Laurent Le Guillou, Eduardo Sepulveda, Sylvain Baumont
 
 
-**FRA-INP-S7:** Dr. Marc Moniez
+**FRA-INP-S7:** Marc Moniez
 
 *AuxTel support*
 
 Marc Moniez, Sylvie Dagoret-Campagne, Martin Monroy, Jérémy Neveu, Laurent Le Guillou
 
 
-**FRA-INP-S8:** Dr. Pierre Antilogus
+**FRA-INP-S8:** Pierre Antilogus
 
 *Commissioning at pixel level, data quality and “On-Sky” calibration*
 
 Dominique Boutigny, Sabine Elles, Thibault Guillemin, Fabio Hernandez, Fabrice Feinstein, Dominique Fouchez, Benjamin Racine, André Tilquin, Emmanuel Gangler, Fabrice Jammes, Nicoleta Pauna, Pierre Antilogus, Pierre Astier, Claire Juramy, Aurélien Barrau, Johan Brégeon, Céline Combet, Marine Kuna, Johann Cohen-Tanugi
 
 
-**FRA-INP-S9:** Dr. Cyrille Doux
+**FRA-INP-S9:** Cyrille Doux
 
 *Object detection, weak lensing, and deblending*
 
 Eric Aubourg, Cécile Roucelle, Alexandre Boucaud, Justine Zeghal, Biswajit Biswas, Axel Guinot, Marina Ricci
 
 
-**FRA-INP-S10:** Dr. Alexandre Boucaud
+**FRA-INP-S10:** Alexandre Boucaud
 
 *Camera hardware optimization*
 
 Eric Aubourg, Cécile Roucelle, Alexandre Boucaud, Justine Zeghal, Biswajit Biswas, Axel Guinot, Marina Ricci
 
 
-**ITA-INA-S21:** Dr. Felice Cusano
+**ITA-INA-S21:** Felice Cusano
 
 *Engineering support at Telescope commissioning*
 
 Felice Cusano, Rodolfo Canestrari, Gabriele Rodeghiero, Enrico Giro
 
 
-**ITA-INA-S22:** Dr. Giuliana Fiorentino
+**ITA-INA-S22:** Giuliana Fiorentino
 
 *Image quality analysis*
 
 Rodolfo Canestrari, Gabriele Rodeghiero, Enrico Giro, Marcella Di Criscienzo, Giuliana Fiorentino, Davide Massari, Luciano Lanteri, Salvatore Savarese, Pietro Schipani, Vincenzo Ripepi, Filippo D'Ammando, Vincenzo Testa, Laura Schreiber
 
 
-**ITA-INA-S23:** Dr. Giuseppe Riccio
+**ITA-INA-S23:** Giuseppe Riccio
 
 *Instrument, telemetry, and science trend analysis and statistical characterization*
 
@@ -74,7 +74,7 @@ Giuseppe Riccio, Stefano Cavuoti, Massimo Brescia
 TBD
 
 
-**KOR-KAS-S1:** Dr. Narae Hwang
+**KOR-KAS-S1:** Narae Hwang
 
 *Observing support*
 
@@ -88,7 +88,7 @@ Narae Hwang, Moo-Young Chun
 Aaron Watkins, Jon Loveday, Graham Smith, Tom Wilson, Dan Ryczanowski, Gavin Dalton, Will Sutherland, Tim Naylor, Raphael Shirley, Nicholas Walton, Boris Leistedt
 
 
-**UKD-UKD-S7:** Prof Ian Shipsey
+**UKD-UKD-S7:** Ian Shipsey
 
 *Science validation for sensor characterization and PSF modelling*
 

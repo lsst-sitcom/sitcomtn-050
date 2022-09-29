@@ -3,7 +3,7 @@
 
 groups:
   ESP-BCM-S2:
-    contact: Dr. Ignacio Sevilla-Noarbe
+    contact: Ignacio Sevilla-Noarbe
     contribution: Technical Support in Commissioning
     members:
       - Ignacio Sevilla
@@ -13,7 +13,7 @@ groups:
       - Jordi Arellano
       - Ricard Casas
   FRA-INP-S6:
-    contact: Dr. Jérémy Neveu
+    contact: Jérémy Neveu
     contribution: Calibration hardware (CBP, flat screen, dome illumination, etc.)
     members:
       - Jérémy Neveu
@@ -21,7 +21,7 @@ groups:
       - Eduardo Sepulveda
       - Sylvain Baumont
   FRA-INP-S7:
-    contact: Dr. Marc Moniez
+    contact: Marc Moniez
     contribution: AuxTel support
     members:
       - Marc Moniez
@@ -30,7 +30,7 @@ groups:
       - Jérémy Neveu
       - Laurent Le Guillou
   FRA-INP-S8:
-     contact: Dr. Pierre Antilogus
+     contact: Pierre Antilogus
      contribution: Commissioning at pixel level, data quality and “On-Sky” calibration
      members:
       - Dominique Boutigny
@@ -53,7 +53,7 @@ groups:
       - Marine Kuna
       - Johann Cohen-Tanugi
   FRA-INP-S9:
-    contact: Dr. Cyrille Doux
+    contact: Cyrille Doux
     contribution: Object detection, weak lensing, and deblending
     members:
       - Eric Aubourg
@@ -64,7 +64,7 @@ groups:
       - Axel Guinot
       - Marina Ricci
   FRA-INP-S10:
-    contact: Dr. Alexandre Boucaud
+    contact: Alexandre Boucaud
     contribution: Camera hardware optimization
     members:
       - Eric Aubourg
@@ -75,7 +75,7 @@ groups:
       - Axel Guinot
       - Marina Ricci
   ITA-INA-S21:
-    contact: Dr. Felice Cusano
+    contact: Felice Cusano
     contribution: Engineering support at Telescope commissioning
     members:
       - Felice Cusano
@@ -83,7 +83,7 @@ groups:
       - Gabriele Rodeghiero
       - Enrico Giro
   ITA-INA-S22:
-    contact: Dr. Giuliana Fiorentino
+    contact: Giuliana Fiorentino
     contribution: Image quality analysis
     members:
       - Rodolfo Canestrari
@@ -100,7 +100,7 @@ groups:
       - Vincenzo Testa
       - Laura Schreiber
   ITA-INA-S23:
-    contact: Dr. Giuseppe Riccio
+    contact: Giuseppe Riccio
     contribution: Instrument, telemetry, and science trend analysis and statistical characterization
     members:
       - Giuseppe Riccio
@@ -112,7 +112,7 @@ groups:
     members:
       - TBD
   KOR-KAS-S1:
-    contact: Dr. Narae Hwang
+    contact: Narae Hwang
     contribution: Observing support
     members:
       - Narae Hwang
@@ -133,7 +133,7 @@ groups:
       - Nicholas Walton
       - Boris Leistedt
   UKD-UKD-S7:
-    contact: Prof Ian Shipsey
+    contact: Ian Shipsey
     contribution: Science validation for sensor characterization and PSF modelling
     members:
       - Ian Shipsey
