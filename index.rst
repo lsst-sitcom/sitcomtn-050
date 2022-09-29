@@ -4,10 +4,6 @@
 
 .. Metadata such as the title, authors, and description are set in metadata.yaml
 
-.. warning::
-
-   **This technote is being reviewed before official release.**
-
 Abstract
 ========
 

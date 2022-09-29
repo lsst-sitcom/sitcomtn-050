@@ -1,3 +1,5 @@
+.. Do NOT modify this file directly; edit summary.yaml instead.
+
 International In-Kind Contribution Program
 ------------------------------------------
 

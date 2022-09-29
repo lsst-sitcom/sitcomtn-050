@@ -41,7 +41,7 @@ with open(infile, "r") as stream:
 
 outfile = 'groups.rst'
 with open(outfile, 'w') as writer:
-    #writer.write('# Summary of SIT-Com In-kind Contributions\n')
+    writer.write('.. Do NOT modify this file directly; edit summary.yaml instead.\n\n')
 
     writer.write('International In-Kind Contribution Program\n')
     writer.write('------------------------------------------\n')
