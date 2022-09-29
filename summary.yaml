@@ -4,7 +4,7 @@
 groups:
   ESP-BCM-S2:
     contact: Ignacio Sevilla-Noarbe
-    contribution: Technical Support in Commissioning
+    contribution: Technical support in commissioning
     members:
       - Ignacio Sevilla
       - Cristobal Padilla
@@ -31,7 +31,7 @@ groups:
       - Laurent Le Guillou
   FRA-INP-S8:
      contact: Pierre Antilogus
-     contribution: Commissioning at pixel level, data quality and “On-Sky” calibration
+     contribution: Commissioning at pixel level, data quality and “on-sky” calibration
      members:
       - Dominique Boutigny
       - Sabine Elles
@@ -76,7 +76,7 @@ groups:
       - Marina Ricci
   ITA-INA-S21:
     contact: Felice Cusano
-    contribution: Engineering support at Telescope commissioning
+    contribution: Engineering support at telescope commissioning
     members:
       - Felice Cusano
       - Rodolfo Canestrari
@@ -153,7 +153,7 @@ groups:
       - Marcelle Soares-Santos
   US/Chile-03:
     contact: Siegfried Eggl
-    contribution: Science validation of Solar System Processing pipeline
+    contribution: Science validation of Solar System processing pipeline
     members:
       - Siegfried Eggl
       - Shirley Shah

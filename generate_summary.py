@@ -4,13 +4,21 @@ def writeGroupRST(data, key):
     contact = data["groups"][key]["contact"]
     contribution = data["groups"][key]["contribution"]
     members = data["groups"][key]["members"]
+
     writer.write(f'\n\n')
-    writer.write(f'**{key}:** {contact}\n\n')
-    writer.write(f'*{contribution}*\n\n')
+    writer.write(f'**{key}:** *{contribution}*\n\n')
+    writer.write(f'  Point of Contact: {contact}\n\n')
+    writer.write('  Members: ' + ', '.join(members) + '\n')
+
+    """
+    writer.write(f'\n\n')
+    writer.write(f'**{key}:** {contact} (Point of Contact)\n\n')
+    writer.write(f'  Contribution: *{contribution}*\n\n')
 
     #for name in members:
     #    writer.write(f'- {name}\n')
-    writer.write(", ".join(members) + '\n')
+    writer.write("  Members: " + ", ".join(members) + '\n')
+    """
 
 
 def writeGroupMarkdown(data, key):
