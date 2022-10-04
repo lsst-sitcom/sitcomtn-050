@@ -55,7 +55,7 @@ with open(outfile, 'w') as writer:
     writer.write('------------------------------------------\n')
 
     for key in data["groups"].keys():
-        if "US/Chile" not in key:
+        if "US/Chile" not in key and "University" not in key:
             writeGroupRST(data, key)
 
     writer.write('\n\n')
@@ -63,7 +63,17 @@ with open(outfile, 'w') as writer:
     writer.write('---------------------------------------------------------------------------------\n')
 
     for key in data["groups"].keys():
-        if "US/Chile" in key:
+        if "US/Chile" in key and "University" not in key:
+            writeGroupRST(data, key)
+
+    writer.write('\n\n')
+    writer.write('.. _institutional_contributions:\n')
+    writer.write('\n\n')
+    writer.write('Institutional Contributions to Rubin Observatory Construction\n')
+    writer.write('-------------------------------------------------------------\n')
+
+    for key in data["groups"].keys():
+        if "University" in key and "US/Chile" not in key:
             writeGroupRST(data, key)
 
 """

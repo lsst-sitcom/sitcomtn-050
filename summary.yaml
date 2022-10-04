@@ -312,3 +312,26 @@ groups:
       - Simona Murgia
       - Alex Broughton
       - Johanna Paine
+  Duke University:
+    contact: Chris Walter
+    contribution: SIT-Com support
+    members:
+      - Chris Walter
+  Harvard University:
+    contact: Chris Stubbs
+    contribution: SIT-Com support
+    members:
+      - Chris Stubbs
+  University of Washington:
+    contact: Andy Connolly
+    contribution: SIT-Com support
+    members:
+      - Andrew Connolly
+  University of Wisconsin-Madison:
+    contact: Keith Bechtol
+    contribution: Support for science validation
+    members:
+      - Keith Bechtol
+      - Peter Ferguson
+      - Michael Martinez
+      - Miranda Gorsuch

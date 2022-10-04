@@ -34,7 +34,10 @@ Through their efforts, these individuals will enhance the readiness of Rubin Obs
 No papers presenting novel scientific results based on commissioning data may be posted/submitted by anyone before the associated Data Preview release date (see `Rubin Data Policy <https://docushare.lsst.org/docushare/dsweb/Get/RDO-013>`__).
 The focus of the commissioning effort is on demonstrating operational readiness rather than realizing scientific discoveries with the commissioning data itself.
 
-All members of the Commissioning Team are expected to follow the `professional standards of conduct <https://www.lsst.org/scientists/codes-of-conduct>`__ adopted by the Project.
+All members of the SIT-Com team are expected to follow the `professional standards of conduct <https://www.lsst.org/scientists/codes-of-conduct>`__ adopted by the Project.
+
+Section :ref:`institutional_contributions` lists several additional institutional contributions to Rubin Observatory construction based on agreements that were established prior to the formalization of the two programs mentioned above.
+These university-based groups are making contributions that are partially supported by external sources and are listed in this document together with other in-kind contributions for completeness.
 
 Contributing Groups
 ===================

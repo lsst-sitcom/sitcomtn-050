@@ -8,7 +8,7 @@ International In-Kind Contribution Program
 
   Point of Contact: Ignacio Sevilla-Noarbe
 
-  Members: Ignacio Sevilla, Cristobal Padilla, Otger Ballester, Alexandre Pérez, Jordi Arellano, Ricard Casas
+  Members: Ignacio Sevilla, Cristobal Padilla, Otger Ballester, Jordi Arellano, Ricard Casas
 
 
 **FRA-INP-S6:** *Calibration hardware (CBP, flat screen, dome illumination, etc.)*
@@ -138,7 +138,7 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
 
   Point of Contact: Brant Robertson
 
-  Members: Brant Robertson, Ryan Hausen
+  Members: Brant Robertson, Ryan Hausen, Hubert Bretonnière
 
 
 **US/Chile-07:** *Science validation for Solar System object linkage*
@@ -180,14 +180,14 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
 
   Point of Contact: Ian Dell'Antonio
 
-  Members: Ian Dell’Antonio, Stefanie Hersey, Zacharias Escalante, Alex Drlica-Wagner, Yao-Yuan Mao, Alexie Leauthaud, Yuanyuan Zhang, Annika Peter, Anja von der Linden, Matt Kwiecien, Tesla Jeltema
+  Members: Ian Dell’Antonio, Jessica Nelson, Zacharias Escalante, Alex Drlica-Wagner, Yao-Yuan Mao, Alexie Leauthaud, Yuanyuan Zhang, Annika Peter, Anja von der Linden, Matt Kwiecien, Tesla Jeltema
 
 
 **US/Chile-13:** *Science validation for galaxy clustering analyses*
 
   Point of Contact: Eric Gawiser
 
-  Members: Andrina Nicola, Humna Awan, Eli Rykoff, Josh Meyers, Javi Sánchez, Rachel Mandelbaum, Anze Slosar, Irene Moskowitz, Adam Broussard, Eric Gawiser
+  Members: Andrina Nicola, Humna Awan, Eli Rykoff, Josh Meyers, Javi Sánchez, Rachel Mandelbaum, Anze Slosar, Irene Moskowitz, Heather Prince, Eric Gawiser
 
 
 **US/Chile-14:** *Science validation of photometric calibration for early science*
@@ -216,3 +216,38 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
   Point of Contact: Simona Murgia
 
   Members: Simona Murgia, Alex Broughton, Johanna Paine
+
+
+.. _institutional_contributions:
+
+
+Institutional Contributions to Rubin Observatory Construction
+-------------------------------------------------------------
+
+
+**Duke University:** *SIT-Com support*
+
+  Point of Contact: Chris Walter
+
+  Members: Chris Walter
+
+
+**Harvard University:** *SIT-Com support*
+
+  Point of Contact: Chris Stubbs
+
+  Members: Chris Stubbs
+
+
+**University of Washington:** *SIT-Com support*
+
+  Point of Contact: Andy Connolly
+
+  Members: Andrew Connolly
+
+
+**University of Wisconsin-Madison:** *Support for science validation*
+
+  Point of Contact: Keith Bechtol
+
+  Members: Keith Bechtol, Peter Ferguson, Michael Martinez, Miranda Gorsuch
