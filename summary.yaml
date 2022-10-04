@@ -193,6 +193,7 @@ groups:
     members:
       - Brant Robertson
       - Ryan Hausen
+      - Hubert Bretonnière
   US/Chile-07:
     contact: Matthew J Holman
     contribution: Science validation for Solar System object linkage
