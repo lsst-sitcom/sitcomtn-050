@@ -67,8 +67,6 @@ with open(outfile, 'w') as writer:
             writeGroupRST(data, key)
 
     writer.write('\n\n')
-    writer.write('.. _institutional_contributions:\n')
-    writer.write('\n\n')
     writer.write('Institutional Contributions to Rubin Observatory Construction\n')
     writer.write('-------------------------------------------------------------\n')
 

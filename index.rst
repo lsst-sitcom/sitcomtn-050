@@ -36,7 +36,7 @@ The focus of the commissioning effort is on demonstrating operational readiness 
 
 All members of the SIT-Com team are expected to follow the `professional standards of conduct <https://www.lsst.org/scientists/codes-of-conduct>`__ adopted by the Project.
 
-Section :ref:`institutional_contributions` lists several additional institutional contributions to Rubin Observatory construction based on agreements that were established prior to the formalization of the two programs mentioned above.
+The final section of this document lists several additional institutional contributions to Rubin Observatory construction based on agreements that were established prior to the formalization of the two programs mentioned above.
 These university-based groups are making contributions that are partially supported by external sources and are listed in this document together with other in-kind contributions for completeness.
 
 Contributing Groups

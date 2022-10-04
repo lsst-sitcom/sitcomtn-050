@@ -218,9 +218,6 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
   Members: Simona Murgia, Alex Broughton, Johanna Paine
 
 
-.. _institutional_contributions:
-
-
 Institutional Contributions to Rubin Observatory Construction
 -------------------------------------------------------------
 
