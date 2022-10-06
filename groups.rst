@@ -233,17 +233,17 @@ Institutional Contributions to Rubin Observatory Construction
 
   Point of Contact: Chris Stubbs
 
-  Members: Chris Stubbs
+  Members: Chris Stubbs, Elana Urbach, Eske Pedersen, Dillon Brout, Ali Kurmus, Aris Zhu
 
 
 **University of Washington:** *SIT-Com support*
 
   Point of Contact: Andy Connolly
 
-  Members: Andrew Connolly
+  Members: Andrew Connolly, Bryce Kalmbach, Chris Suberlak
 
 
-**University of Wisconsin-Madison:** *Support for science validation*
+**University of Wisconsin-Madison:** *SIT-Com support*
 
   Point of Contact: Keith Bechtol
 

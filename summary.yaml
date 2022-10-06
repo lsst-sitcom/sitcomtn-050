@@ -322,14 +322,21 @@ groups:
     contribution: SIT-Com support
     members:
       - Chris Stubbs
+      - Elana Urbach
+      - Eske Pedersen
+      - Dillon Brout
+      - Ali Kurmus
+      - Aris Zhu
   University of Washington:
     contact: Andy Connolly
     contribution: SIT-Com support
     members:
       - Andrew Connolly
+      - Bryce Kalmbach
+      - Chris Suberlak
   University of Wisconsin-Madison:
     contact: Keith Bechtol
-    contribution: Support for science validation
+    contribution: SIT-Com support
     members:
       - Keith Bechtol
       - Peter Ferguson
