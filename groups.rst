@@ -74,7 +74,7 @@ International In-Kind Contribution Program
   Members: TBD
 
 
-**KOR-KAS-S1:** *Observing support*
+**KOR-KAS-S1:** *KASI Fellows for commissioning observing support*
 
   Point of Contact: Narae Hwang
 
