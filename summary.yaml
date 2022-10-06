@@ -118,7 +118,7 @@ groups:
       - Moo-Young Chun
   UKD-UKD-S13:
     contact: Graham Smith
-    contribution: Support for active optics system commissioning and science validation
+    contribution: Support for active optics system commissioning and science validation for astrometry and photometry, galaxy clustering, low surface brightness science, multiwavelength data fusion, and strong gravitational lensing
     members:
       - Aaron Watkins
       - Jon Loveday
@@ -238,7 +238,7 @@ groups:
       - Dominique Fouchez
   US/Chile-12:
     contact: Ian Dell'Antonio
-    contribution: Science validation for sky background modeling and low-surface brightness science
+    contribution: Science validation for sky background modeling and low surface brightness science
     members:
       - Ian Dell’Antonio
       - Jessica Nelson

@@ -81,7 +81,7 @@ International In-Kind Contribution Program
   Members: Narae Hwang, Moo-Young Chun
 
 
-**UKD-UKD-S13:** *Support for active optics system commissioning and science validation*
+**UKD-UKD-S13:** *Support for active optics system commissioning and science validation for astrometry and photometry, galaxy clustering, low surface brightness science, multiwavelength data fusion, and strong gravitational lensing*
 
   Point of Contact: Graham Smith
 
@@ -176,7 +176,7 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
   Members: Michael Wood-Vasey, Shu Liu, Bruno Sánchez, Gautham Narayan, Amanda Wasserman, Rick Kessler, Bob Armstrong, Saurabh Jha, Federica Bianco, Tatiana Acero Cuellar, Benjamin Racine, Dominique Fouchez
 
 
-**US/Chile-12:** *Science validation for sky background modeling and low-surface brightness science*
+**US/Chile-12:** *Science validation for sky background modeling and low surface brightness science*
 
   Point of Contact: Ian Dell'Antonio
 
