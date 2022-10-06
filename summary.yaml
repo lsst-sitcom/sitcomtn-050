@@ -30,7 +30,7 @@ groups:
       - Laurent Le Guillou
   FRA-INP-S8:
      contact: Pierre Antilogus
-     contribution: Commissioning at pixel level, data quality and “on-sky” calibration
+     contribution: Commissioning at pixel level, data quality, and “on-sky” calibration
      members:
       - Dominique Boutigny
       - Sabine Elles
@@ -53,7 +53,7 @@ groups:
       - Johann Cohen-Tanugi
   FRA-INP-S9:
     contact: Cyrille Doux
-    contribution: Object detection, weak lensing, and deblending
+    contribution: Science validation for object detection, weak lensing, and deblending
     members:
       - Eric Aubourg
       - Cécile Roucelle
@@ -67,12 +67,7 @@ groups:
     contribution: Camera hardware optimization
     members:
       - Eric Aubourg
-      - Cécile Roucelle
       - Alexandre Boucaud
-      - Justine Zeghal
-      - Biswajit Biswas
-      - Axel Guinot
-      - Marina Ricci
   ITA-INA-S21:
     contact: Felice Cusano
     contribution: Engineering support at telescope commissioning

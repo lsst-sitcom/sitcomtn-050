@@ -25,14 +25,14 @@ International In-Kind Contribution Program
   Members: Marc Moniez, Sylvie Dagoret-Campagne, Martin Monroy, Jérémy Neveu, Laurent Le Guillou
 
 
-**FRA-INP-S8:** *Commissioning at pixel level, data quality and “on-sky” calibration*
+**FRA-INP-S8:** *Commissioning at pixel level, data quality, and “on-sky” calibration*
 
   Point of Contact: Pierre Antilogus
 
   Members: Dominique Boutigny, Sabine Elles, Thibault Guillemin, Fabio Hernandez, Fabrice Feinstein, Dominique Fouchez, Benjamin Racine, André Tilquin, Emmanuel Gangler, Fabrice Jammes, Nicoleta Pauna, Pierre Antilogus, Pierre Astier, Claire Juramy, Aurélien Barrau, Johan Brégeon, Céline Combet, Marine Kuna, Johann Cohen-Tanugi
 
 
-**FRA-INP-S9:** *Object detection, weak lensing, and deblending*
+**FRA-INP-S9:** *Science validation for object detection, weak lensing, and deblending*
 
   Point of Contact: Cyrille Doux
 
@@ -43,7 +43,7 @@ International In-Kind Contribution Program
 
   Point of Contact: Alexandre Boucaud
 
-  Members: Eric Aubourg, Cécile Roucelle, Alexandre Boucaud, Justine Zeghal, Biswajit Biswas, Axel Guinot, Marina Ricci
+  Members: Eric Aubourg, Alexandre Boucaud
 
 
 **ITA-INA-S21:** *Engineering support at telescope commissioning*
