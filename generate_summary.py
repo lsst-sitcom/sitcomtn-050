@@ -1,5 +1,6 @@
 import yaml
 
+
 def writeGroupRST(data, key):
     contact = data["groups"][key]["contact"]
     contribution = data["groups"][key]["contribution"]
@@ -9,35 +10,6 @@ def writeGroupRST(data, key):
     writer.write(f'**{key}:** *{contribution}*\n\n')
     writer.write(f'  Point of Contact: {contact}\n\n')
     writer.write('  Members: ' + ', '.join(members) + '\n')
-
-    """
-    writer.write(f'\n\n')
-    writer.write(f'**{key}:** {contact} (Point of Contact)\n\n')
-    writer.write(f'  Contribution: *{contribution}*\n\n')
-
-    #for name in members:
-    #    writer.write(f'- {name}\n')
-    writer.write("  Members: " + ", ".join(members) + '\n')
-    """
-
-
-def writeGroupMarkdown(data, key):
-    contact = data["groups"][key]["contact"]
-    contribution = data["groups"][key]["contribution"]
-    members = data["groups"][key]["members"]
-
-    writer.write(f'\n\n')
-    writer.write(f'**{key}:** {contact}\n\n')
-    writer.write(f'*{contribution}*\n\n')
-
-    for name in members:
-        writer.write(f'- {name}\n')
-
-    writer.write(f'\n\n')
-
-    #write.write("%s" data["groups"][key]["contribution"])
-    #writer.write('## %s, %s\n'%(key,
-    #                            data["groups"][key]["contact"]))
 
 
 infile = 'summary.yaml'
@@ -73,12 +45,3 @@ with open(outfile, 'w') as writer:
     for key in data["groups"].keys():
         if "University" in key and "US/Chile" not in key:
             writeGroupRST(data, key)
-
-"""
-outfile = 'summary.md'
-with open(outfile, 'w') as writer:
-    writer.write('# Summary of SIT-Com In-kind Contributions\n')
-
-    for key in data["groups"].keys():
-        writeGroup(data, key)
-"""
