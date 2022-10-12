@@ -1,216 +1,250 @@
+.. Do NOT modify this file directly; edit summary.yaml instead.
+
 International In-Kind Contribution Program
 ------------------------------------------
 
 
-**ESP-BCM-S2:** Dr. Ignacio Sevilla-Noarbe
+**ESP-BCM-S2:** *Technical support in commissioning*
 
-*Technical Support in Commissioning*
+  Point of Contact: Ignacio Sevilla-Noarbe
 
-Ignacio Sevilla, Cristobal Padilla, Otger Ballester, Alexandre Pérez, Jordi Arellano, Ricard Casas
-
-
-**FRA-INP-S6:** Dr. Jérémy Neveu
-
-*Calibration hardware (CBP, flat screen, dome illumination, etc.)*
-
-Jérémy Neveu, Laurent Le Guillou, Eduardo Sepulveda, Sylvain Baumont
+  Members: Ignacio Sevilla, Cristobal Padilla, Otger Ballester, Jordi Arellano, Ricard Casas
 
 
-**FRA-INP-S7:** Dr. Marc Moniez
+**FRA-INP-S6:** *Calibration hardware (CBP, flat screen, dome illumination, etc.)*
 
-*AuxTel support*
+  Point of Contact: Jérémy Neveu
 
-Marc Moniez, Sylvie Dagoret-Campagne, Martin Monroy, Jérémy Neveu, Laurent Le Guillou
-
-
-**FRA-INP-S8:** Dr. Pierre Antilogus
-
-*Commissioning at pixel level, data quality and “On-Sky” calibration*
-
-Dominique Boutigny, Sabine Elles, Thibault Guillemin, Fabio Hernandez, Fabrice Feinstein, Dominique Fouchez, Benjamin Racine, André Tilquin, Emmanuel Gangler, Fabrice Jammes, Nicoleta Pauna, Pierre Antilogus, Pierre Astier, Claire Juramy, Aurélien Barrau, Johan Brégeon, Céline Combet, Marine Kuna, Johann Cohen-Tanugi
+  Members: Jérémy Neveu, Laurent Le Guillou, Eduardo Sepulveda, Sylvain Baumont
 
 
-**FRA-INP-S9:** Dr. Cyrille Doux
+**FRA-INP-S7:** *AuxTel support*
 
-*Object detection, weak lensing, and deblending*
+  Point of Contact: Marc Moniez
 
-Eric Aubourg, Cécile Roucelle, Alexandre Boucaud, Justine Zeghal, Biswajit Biswas, Axel Guinot, Marina Ricci
-
-
-**FRA-INP-S10:** Dr. Alexandre Boucaud
-
-*Camera hardware optimization*
-
-Eric Aubourg, Cécile Roucelle, Alexandre Boucaud, Justine Zeghal, Biswajit Biswas, Axel Guinot, Marina Ricci
+  Members: Marc Moniez, Sylvie Dagoret-Campagne, Martin Monroy, Jérémy Neveu, Laurent Le Guillou
 
 
-**ITA-INA-S21:** Dr. Felice Cusano
+**FRA-INP-S8:** *Commissioning at pixel level, data quality, and “on-sky” calibration*
 
-*Engineering support at Telescope commissioning*
+  Point of Contact: Pierre Antilogus
 
-Felice Cusano, Rodolfo Canestrari, Gabriele Rodeghiero, Enrico Giro
-
-
-**ITA-INA-S22:** Dr. Giuliana Fiorentino
-
-*Image quality analysis*
-
-Rodolfo Canestrari, Gabriele Rodeghiero, Enrico Giro, Marcella Di Criscienzo, Giuliana Fiorentino, Davide Massari, Luciano Lanteri, Salvatore Savarese, Pietro Schipani, Vincenzo Ripepi, Filippo D'Ammando, Vincenzo Testa, Laura Schreiber
+  Members: Dominique Boutigny, Sabine Elles, Thibault Guillemin, Fabio Hernandez, Fabrice Feinstein, Dominique Fouchez, Benjamin Racine, André Tilquin, Emmanuel Gangler, Fabrice Jammes, Nicoleta Pauna, Pierre Antilogus, Pierre Astier, Claire Juramy, Aurélien Barrau, Johan Brégeon, Céline Combet, Marine Kuna, Johann Cohen-Tanugi, Marina Ricci
 
 
-**ITA-INA-S23:** Dr. Giuseppe Riccio
+**FRA-INP-S9:** *Science validation for object detection, weak lensing, and deblending*
 
-*Instrument, telemetry, and science trend analysis and statistical characterization*
+  Point of Contact: Cyrille Doux
 
-Giuseppe Riccio, Stefano Cavuoti, Massimo Brescia
-
-
-**JAP-JPG-S2:** Dr. Yutaka Komiyama
-
-*TBD*
-
-TBD
+  Members: Eric Aubourg, Cécile Roucelle, Alexandre Boucaud, Justine Zeghal, Biswajit Biswas, Axel Guinot, Marina Ricci
 
 
-**KOR-KAS-S1:** Dr. Narae Hwang
+**FRA-INP-S10:** *Camera hardware optimization*
 
-*Observing support*
+  Point of Contact: Alexandre Boucaud
 
-Narae Hwang, Moo-Young Chun
-
-
-**UKD-UKD-S13:** Graham Smith
-
-*Support for active optics system commissioning and science validation*
-
-Aaron Watkins, Jon Loveday, Graham Smith, Tom Wilson, Dan Ryczanowski, Gavin Dalton, Will Sutherland, Tim Naylor, Raphael Shirley, Nicholas Walton, Boris Leistedt
+  Members: Eric Aubourg, Alexandre Boucaud
 
 
-**UKD-UKD-S7:** Prof Ian Shipsey
+**ITA-INA-S21:** *Engineering support at telescope commissioning*
 
-*Science validation for sensor characterization and PSF modelling*
+  Point of Contact: Felice Cusano
 
-Ian Shipsey, Jeff Tseng, Farrukh Azfar, Daniel Weatherill
+  Members: Felice Cusano, Rodolfo Canestrari, Gabriele Rodeghiero, Enrico Giro
+
+
+**ITA-INA-S22:** *Image quality analysis*
+
+  Point of Contact: Giuliana Fiorentino
+
+  Members: Rodolfo Canestrari, Gabriele Rodeghiero, Enrico Giro, Marcella Di Criscienzo, Giuliana Fiorentino, Davide Massari, Luciano Lanteri, Salvatore Savarese, Pietro Schipani, Vincenzo Ripepi, Filippo D'Ammando, Vincenzo Testa, Laura Schreiber
+
+
+**ITA-INA-S23:** *Instrument, telemetry, and science trend analysis and statistical characterization*
+
+  Point of Contact: Giuseppe Riccio
+
+  Members: Giuseppe Riccio, Stefano Cavuoti, Massimo Brescia
+
+
+**JAP-JPG-S2:** *TBD*
+
+  Point of Contact: Dr. Yutaka Komiyama
+
+  Members: TBD
+
+
+**KOR-KAS-S1:** *KASI Fellows for commissioning observing support*
+
+  Point of Contact: Narae Hwang
+
+  Members: Narae Hwang, Moo-Young Chun
+
+
+**UKD-UKD-S13:** *Support for active optics system commissioning and science validation for astrometry and photometry, galaxy clustering, low surface brightness science, multiwavelength data fusion, and strong gravitational lensing*
+
+  Point of Contact: Graham Smith
+
+  Members: Aaron Watkins, Jon Loveday, Graham Smith, Tom Wilson, Dan Ryczanowski, Gavin Dalton, Will Sutherland, Tim Naylor, Raphael Shirley, Nicholas Walton, Boris Leistedt
+
+
+**UKD-UKD-S7:** *Science validation for sensor characterization and PSF modelling*
+
+  Point of Contact: Ian Shipsey
+
+  Members: Ian Shipsey, Jeff Tseng, Farrukh Azfar, Daniel Weatherill
 
 
 US/Chile Community Engagement with Rubin Observatory Commissioning Effort Program
 ---------------------------------------------------------------------------------
 
 
-**US/Chile-01:** Louise Edwards
+**US/Chile-01:** *Observing support*
 
-*Observing support*
+  Point of Contact: Louise Edwards
 
-Louise Edwards
+  Members: Louise Edwards
 
 
-**US/Chile-02:** Marcelle Soares-Santos
+**US/Chile-02:** *Observing support and camera commissioning support in Chile*
 
-*Observing support and camera commissioning support in Chile*
+  Point of Contact: Marcelle Soares-Santos
 
-Johnny Esteves, Marcelle Soares-Santos
+  Members: Johnny Esteves, Marcelle Soares-Santos
 
 
-**US/Chile-03:** Siegfried Eggl
+**US/Chile-03:** *Science validation of Solar System processing pipeline*
 
-*Science validation of Solar System Processing pipeline*
+  Point of Contact: Siegfried Eggl
 
-Siegfried Eggl, Shirley Shah
+  Members: Siegfried Eggl, Shirley Shah
 
 
-**US/Chile-04:** Mike Jarvis
+**US/Chile-04:** *Science validation of PSF characterization*
 
-*Science validation of PSF characterization*
+  Point of Contact: Mike Jarvis
 
-Mike Jarvis, Rachel Mandelbaum, Tianqing Zhang, Claire-Alice Hébert, Sid Mau, Pat Burchat, Josh Meyers, Aaron Roodman, Theo Schutt, Chris Stubbs, Elana Urbach, Eske Pedersen, Brodi Elwood, Dan Weatherill, Arun Kannawadi, Erfan Nourbakhsh
+  Members: Mike Jarvis, Rachel Mandelbaum, Tianqing Zhang, Claire-Alice Hébert, Sid Mau, Pat Burchat, Josh Meyers, Aaron Roodman, Theo Schutt, Chris Stubbs, Elana Urbach, Eske Pedersen, Brodi Elwood, Dan Weatherill, Arun Kannawadi, Erfan Nourbakhsh
 
 
-**US/Chile-05:** Matthew R. Becker
+**US/Chile-05:** *Science validation for weak lensing shear estimation and development of advanced image coaddition methods*
 
-*Science validation for weak lensing shear estimation and development of advanced image coaddition methods*
+  Point of Contact: Matthew R. Becker
 
-Matthew R. Becker, Arun Kannawadi, Erin Sheldon, Michael Troxel, David Kirkby, Theo Schutt, Erfan Nourbakhsh
+  Members: Matthew R. Becker, Arun Kannawadi, Erin Sheldon, Michael Troxel, David Kirkby, Theo Schutt, Erfan Nourbakhsh
 
 
-**US/Chile-06:** Brant Robertson
+**US/Chile-06:** *Science validation of galaxy photometry*
 
-*Science validation of galaxy photometry*
+  Point of Contact: Brant Robertson
 
-Brant Robertson, Ryan Hausen
+  Members: Brant Robertson, Ryan Hausen, Hubert Bretonnière
 
 
-**US/Chile-07:** Matthew J Holman
+**US/Chile-07:** *Science validation for Solar System object linkage*
 
-*Science validation for Solar System object linkage*
+  Point of Contact: Matthew J Holman
 
-Matthew J. Holman, Zachary Murray
+  Members: Matthew J. Holman, Zachary Murray
 
 
-**US/Chile-08:** Dave Monet
+**US/Chile-08:** *Science validation for astrometry*
 
-*Science validation for astrometry*
+  Point of Contact: Dave Monet
 
-Dave Monet, Mike Rich, John Gizis, Markus Rabus
+  Members: Dave Monet, Mike Rich, John Gizis, Markus Rabus
 
 
-**US/Chile-09:** Simon Birrer
+**US/Chile-09:** *Science validation for strong gravitational lensing*
 
-*Science validation for strong gravitational lensing*
+  Point of Contact: Simon Birrer
 
-Simon Birrer, Paul Schechter, Tansu Daylan
+  Members: Simon Birrer, Paul Schechter, Tansu Daylan
 
 
-**US/Chile-10:** Markus Rabus
+**US/Chile-10:** *Observing support and science validation of time series photometry*
 
-*Observing support and science validation of time series photometry*
+  Point of Contact: Markus Rabus
 
-Markus Rabus
+  Members: Markus Rabus
 
 
-**US/Chile-11:** Michael Wood-Vasey
+**US/Chile-11:** *Science validation for difference Image Analysis (DIA) including parameter / algorithm tuning, masking, and template generation*
 
-*Science validation for difference Image Analysis (DIA) including parameter / algorithm tuning, masking, and template generation*
+  Point of Contact: Michael Wood-Vasey
 
-Michael Wood-Vasey, Shu Liu, Bruno Sánchez, Gautham Narayan, Amanda Wasserman, Rick Kessler, Bob Armstrong, Saurabh Jha, Federica Bianco, Tatiana Acero Cuellar, Benjamin Racine, Dominique Fouchez
+  Members: Michael Wood-Vasey, Shu Liu, Bruno Sánchez, Gautham Narayan, Amanda Wasserman, Rick Kessler, Bob Armstrong, Saurabh Jha, Federica Bianco, Tatiana Acero Cuellar, Benjamin Racine, Dominique Fouchez
 
 
-**US/Chile-12:** Ian Dell'Antonio
+**US/Chile-12:** *Science validation for sky background modeling and low surface brightness science*
 
-*Science validation for sky background modeling and low-surface brightness science*
+  Point of Contact: Ian Dell'Antonio
 
-Ian Dell’Antonio, Stefanie Hersey, Zacharias Escalante, Alex Drlica-Wagner, Yao-Yuan Mao, Alexie Leauthaud, Yuanyuan Zhang, Annika Peter, Anja von der Linden, Matt Kwiecien, Tesla Jeltema
+  Members: Ian Dell’Antonio, Jessica Nelson, Zacharias Escalante, Alex Drlica-Wagner, Yao-Yuan Mao, Alexie Leauthaud, Yuanyuan Zhang, Annika Peter, Anja von der Linden, Matt Kwiecien, Tesla Jeltema
 
 
-**US/Chile-13:** Eric Gawiser
+**US/Chile-13:** *Science validation for galaxy clustering analyses*
 
-*Science validation for galaxy clustering analyses*
+  Point of Contact: Eric Gawiser
 
-Andrina Nicola, Humna Awan, Eli Rykoff, Josh Meyers, Javi Sánchez, Rachel Mandelbaum, Anze Slosar, Irene Moskowitz, Adam Broussard, Eric Gawiser
+  Members: Andrina Nicola, Humna Awan, Eli Rykoff, Josh Meyers, Javi Sánchez, Rachel Mandelbaum, Anze Slosar, Irene Moskowitz, Heather Prince, Eric Gawiser
 
 
-**US/Chile-14:** Elana Urbach
+**US/Chile-14:** *Science validation of photometric calibration for early science*
 
-*Science validation of photometric calibration for early science*
+  Point of Contact: Elana Urbach
 
-Elana Urbach, Christopher Stubbs, Eske Pedersen, Saurabh Jha, Conor Larison, Douglas Tucker, Matt Wiesner, Daniel Perrefort, Michael Wood-Vasey, Gautham Narayan, Konstantin Malanchev, Melissa Butner, J. Allyn Smith
+  Members: Elana Urbach, Christopher Stubbs, Eske Pedersen, Saurabh Jha, Conor Larison, Douglas Tucker, Matt Wiesner, Daniel Perrefort, Michael Wood-Vasey, Gautham Narayan, Konstantin Malanchev, Melissa Butner, J. Allyn Smith
 
 
-**US/Chile-15:** David Kirkby
+**US/Chile-15:** *Support for commissioning data visualization and drill-down analysis*
 
-*Support for commissioning data visualization and drill-down analysis*
+  Point of Contact: David Kirkby
 
-David Kirkby, Matt Dowicz
+  Members: David Kirkby, Matt Dowicz
 
 
-**US/Chile-16:** Anja von der Linden
+**US/Chile-16:** *Science validation of galaxy photometry and testing deblending algorithms in cluster fields*
 
-*Science validation of galaxy photometry and testing deblending algorithms in cluster fields*
+  Point of Contact: Anja von der Linden
 
-Anja von der Linden, Ian Dell’Antonio, Zacharias Escalante, Shuang Liang, Radhakrishnan Srinivasan, Shenming Fu, Camille Avestruz, Ismael Mendoza, Simona Mei, Peter Melchior, Doug Clowe, Rémy Joseph, Cristobal Sifon
+  Members: Anja von der Linden, Ian Dell’Antonio, Zacharias Escalante, Shuang Liang, Radhakrishnan Srinivasan, Shenming Fu, Camille Avestruz, Ismael Mendoza, Simona Mei, Peter Melchior, Doug Clowe, Rémy Joseph, Cristobal Sifon
 
 
-**US/Chile-17:** Simona Murgia
+**US/Chile-17:** *Investigation and mitigation of sensor anomalies for ComCam and LSSTCam detectors using calibration and on-sky data*
 
-*Investigation and mitigation of sensor anomalies for ComCam and LSSTCam detectors using calibration and on-sky data*
+  Point of Contact: Simona Murgia
 
-Simona Murgia, Alex Broughton, Johanna Paine
+  Members: Simona Murgia, Alex Broughton, Johanna Paine
+
+
+Institutional Contributions to Rubin Observatory Construction
+-------------------------------------------------------------
+
+
+**Duke University:** *SIT-Com support*
+
+  Point of Contact: Chris Walter
+
+  Members: Chris Walter
+
+
+**Harvard University:** *SIT-Com support*
+
+  Point of Contact: Chris Stubbs
+
+  Members: Chris Stubbs, Elana Urbach, Eske Pedersen, Dillon Brout, Ali Kurmus, Aris Zhu
+
+
+**University of Washington:** *SIT-Com support*
+
+  Point of Contact: Andy Connolly
+
+  Members: Andrew Connolly, John Franklin Crenshaw, Dino Bektesevic, Colin Chandler, Sam Wyatt, Pedro Bernardinelli, Yuankun (David) Wang, Steven Stetzler, Jake Kurlander, Chester Li, Max West, Drew Oldag, Carl Christoffersen, Doug Branton
+
+
+**University of Wisconsin-Madison:** *SIT-Com support*
+
+  Point of Contact: Keith Bechtol
+
+  Members: Keith Bechtol, Peter Ferguson, Michael Martinez, Miranda Gorsuch

@@ -1,16 +1,18 @@
+# Summary of SIT-Com in-kind contributions
+# Please edit this file to modify the list of named contributors
+
 groups:
   ESP-BCM-S2:
-    contact: Dr. Ignacio Sevilla-Noarbe
-    contribution: Technical Support in Commissioning
+    contact: Ignacio Sevilla-Noarbe
+    contribution: Technical support in commissioning
     members:
       - Ignacio Sevilla
       - Cristobal Padilla
       - Otger Ballester
-      - Alexandre Pérez
       - Jordi Arellano
       - Ricard Casas
   FRA-INP-S6:
-    contact: Dr. Jérémy Neveu
+    contact: Jérémy Neveu
     contribution: Calibration hardware (CBP, flat screen, dome illumination, etc.)
     members:
       - Jérémy Neveu
@@ -18,7 +20,7 @@ groups:
       - Eduardo Sepulveda
       - Sylvain Baumont
   FRA-INP-S7:
-    contact: Dr. Marc Moniez
+    contact: Marc Moniez
     contribution: AuxTel support
     members:
       - Marc Moniez
@@ -27,8 +29,8 @@ groups:
       - Jérémy Neveu
       - Laurent Le Guillou
   FRA-INP-S8:
-     contact: Dr. Pierre Antilogus
-     contribution: Commissioning at pixel level, data quality and “On-Sky” calibration
+     contact: Pierre Antilogus
+     contribution: Commissioning at pixel level, data quality, and “on-sky” calibration
      members:
       - Dominique Boutigny
       - Sabine Elles
@@ -49,9 +51,10 @@ groups:
       - Céline Combet
       - Marine Kuna
       - Johann Cohen-Tanugi
+      - Marina Ricci
   FRA-INP-S9:
-    contact: Dr. Cyrille Doux
-    contribution: Object detection, weak lensing, and deblending
+    contact: Cyrille Doux
+    contribution: Science validation for object detection, weak lensing, and deblending
     members:
       - Eric Aubourg
       - Cécile Roucelle
@@ -61,26 +64,21 @@ groups:
       - Axel Guinot
       - Marina Ricci
   FRA-INP-S10:
-    contact: Dr. Alexandre Boucaud
+    contact: Alexandre Boucaud
     contribution: Camera hardware optimization
     members:
       - Eric Aubourg
-      - Cécile Roucelle
       - Alexandre Boucaud
-      - Justine Zeghal
-      - Biswajit Biswas
-      - Axel Guinot
-      - Marina Ricci
   ITA-INA-S21:
-    contact: Dr. Felice Cusano
-    contribution: Engineering support at Telescope commissioning
+    contact: Felice Cusano
+    contribution: Engineering support at telescope commissioning
     members:
       - Felice Cusano
       - Rodolfo Canestrari
       - Gabriele Rodeghiero
       - Enrico Giro
   ITA-INA-S22:
-    contact: Dr. Giuliana Fiorentino
+    contact: Giuliana Fiorentino
     contribution: Image quality analysis
     members:
       - Rodolfo Canestrari
@@ -97,7 +95,7 @@ groups:
       - Vincenzo Testa
       - Laura Schreiber
   ITA-INA-S23:
-    contact: Dr. Giuseppe Riccio
+    contact: Giuseppe Riccio
     contribution: Instrument, telemetry, and science trend analysis and statistical characterization
     members:
       - Giuseppe Riccio
@@ -109,14 +107,14 @@ groups:
     members:
       - TBD
   KOR-KAS-S1:
-    contact: Dr. Narae Hwang
-    contribution: Observing support
+    contact: Narae Hwang
+    contribution: KASI Fellows for commissioning observing support
     members:
       - Narae Hwang
       - Moo-Young Chun
   UKD-UKD-S13:
     contact: Graham Smith
-    contribution: Support for active optics system commissioning and science validation
+    contribution: Support for active optics system commissioning and science validation for astrometry and photometry, galaxy clustering, low surface brightness science, multiwavelength data fusion, and strong gravitational lensing
     members:
       - Aaron Watkins
       - Jon Loveday
@@ -130,7 +128,7 @@ groups:
       - Nicholas Walton
       - Boris Leistedt
   UKD-UKD-S7:
-    contact: Prof Ian Shipsey
+    contact: Ian Shipsey
     contribution: Science validation for sensor characterization and PSF modelling
     members:
       - Ian Shipsey
@@ -150,7 +148,7 @@ groups:
       - Marcelle Soares-Santos
   US/Chile-03:
     contact: Siegfried Eggl
-    contribution: Science validation of Solar System Processing pipeline
+    contribution: Science validation of Solar System processing pipeline
     members:
       - Siegfried Eggl
       - Shirley Shah
@@ -191,6 +189,7 @@ groups:
     members:
       - Brant Robertson
       - Ryan Hausen
+      - Hubert Bretonnière
   US/Chile-07:
     contact: Matthew J Holman
     contribution: Science validation for Solar System object linkage
@@ -235,10 +234,10 @@ groups:
       - Dominique Fouchez
   US/Chile-12:
     contact: Ian Dell'Antonio
-    contribution: Science validation for sky background modeling and low-surface brightness science
+    contribution: Science validation for sky background modeling and low surface brightness science
     members:
       - Ian Dell’Antonio
-      - Stefanie Hersey
+      - Jessica Nelson
       - Zacharias Escalante
       - Alex Drlica-Wagner
       - Yao-Yuan Mao
@@ -260,7 +259,7 @@ groups:
       - Rachel Mandelbaum
       - Anze Slosar
       - Irene Moskowitz
-      - Adam Broussard
+      - Heather Prince
       - Eric Gawiser
   US/Chile-14:
     contact: Elana Urbach
@@ -309,3 +308,44 @@ groups:
       - Simona Murgia
       - Alex Broughton
       - Johanna Paine
+  Duke University:
+    contact: Chris Walter
+    contribution: SIT-Com support
+    members:
+      - Chris Walter
+  Harvard University:
+    contact: Chris Stubbs
+    contribution: SIT-Com support
+    members:
+      - Chris Stubbs
+      - Elana Urbach
+      - Eske Pedersen
+      - Dillon Brout
+      - Ali Kurmus
+      - Aris Zhu
+  University of Washington:
+    contact: Andy Connolly
+    contribution: SIT-Com support
+    members:
+      - Andrew Connolly
+      - John Franklin Crenshaw
+      - Dino Bektesevic
+      - Colin Chandler
+      - Sam Wyatt
+      - Pedro Bernardinelli
+      - Yuankun (David) Wang
+      - Steven Stetzler
+      - Jake Kurlander
+      - Chester Li
+      - Max West
+      - Drew Oldag
+      - Carl Christoffersen
+      - Doug Branton
+  University of Wisconsin-Madison:
+    contact: Keith Bechtol
+    contribution: SIT-Com support
+    members:
+      - Keith Bechtol
+      - Peter Ferguson
+      - Michael Martinez
+      - Miranda Gorsuch
