@@ -14,7 +14,7 @@ Introduction
 
 The Vera C. Rubin Observatory recognizes the individuals listed below as making non-financial contributions to the System Integration, Test, and Commissioning (SIT-Com) effort to facilitate an efficient transition to LSST Operations and increase the overall scientific output of the survey.
 By sharing their technical and scientific expertise, these individuals enhance and diversify the Project's planned commissioning effort.
-The named participants will work directly alongside Rubin Observatory staff in completing their assignments and will have access to commissioning data products as they are acquired.
+The named participants will work directly alongside Rubin Observatory staff in completing their assignments and, in exchange, will have access to commissioning data products as they are acquired.
 The Project will not rely on the contributions from non-Rubin-staff team members to fulfill core construction requirements and operational readiness criteria.
 
 The participating individuals were invited to join the Rubin Observatory SIT-Com effort through one of two programs:
