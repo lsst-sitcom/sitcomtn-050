@@ -29,6 +29,7 @@ groups:
       - Martin Monroy
       - Jérémy Neveu
       - Laurent Le Guillou
+      - Joseph Chevalier
   FRA-INP-S8:
      contact: Pierre Antilogus
      contribution: Commissioning at pixel level, data quality, and “on-sky” calibration

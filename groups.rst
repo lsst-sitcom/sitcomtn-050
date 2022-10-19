@@ -22,7 +22,7 @@ International In-Kind Contribution Program
 
   Point of Contact: Marc Moniez
 
-  Members: Marc Moniez, Sylvie Dagoret-Campagne, Martin Monroy, Jérémy Neveu, Laurent Le Guillou
+  Members: Marc Moniez, Sylvie Dagoret-Campagne, Martin Monroy, Jérémy Neveu, Laurent Le Guillou, Joseph Chevalier
 
 
 **FRA-INP-S8:** *Commissioning at pixel level, data quality, and “on-sky” calibration*
