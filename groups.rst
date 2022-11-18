@@ -8,7 +8,7 @@ International In-Kind Contribution Program
 
   Point of Contact: Ignacio Sevilla-Noarbe
 
-  Members: Ignacio Sevilla, Cristobal Padilla, Otger Ballester, Jordi Arellano, Ricard Casas
+  Members: Ignacio Sevilla, Cristobal Padilla, Otger Ballester, Jordi Arellano, Ricard Casas, Cristóbal Pío
 
 
 **FRA-INP-S6:** *Calibration hardware (CBP, flat screen, dome illumination, etc.)*
