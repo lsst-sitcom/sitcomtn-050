@@ -57,7 +57,7 @@ International In-Kind Contribution Program
 
   Point of Contact: Giuliana Fiorentino
 
-  Members: Rodolfo Canestrari, Gabriele Rodeghiero, Enrico Giro, Marcella Di Criscienzo, Giuliana Fiorentino, Davide Massari, Luciano Lanteri, Salvatore Savarese, Pietro Schipani, Vincenzo Ripepi, Filippo D'Ammando, Vincenzo Testa, Laura Schreiber
+  Members: Rodolfo Canestrari, Gabriele Rodeghiero, Enrico Giro, Marcella Di Criscienzo, Giuliana Fiorentino, Davide Massari, Luciano Lanteri, Salvatore Savarese, Pietro Schipani, Vincenzo Ripepi, Filippo D'Ammando, Vincenzo Testa, Laura Schreiber, Vittorio Braga
 
 
 **ITA-INA-S23:** *Instrument, telemetry, and science trend analysis and statistical characterization*
