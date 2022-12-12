@@ -248,3 +248,10 @@ Institutional Contributions to Rubin Observatory Construction
   Point of Contact: Keith Bechtol
 
   Members: Keith Bechtol, Peter Ferguson, Michael Martinez, Miranda Gorsuch
+
+
+**University of California, Santa Cruz:** *SIT-Com support*
+
+  Point of Contact: Steve Ritz
+
+  Members: Steve Ritz, Adrian Shestakov, Duncan Wood
