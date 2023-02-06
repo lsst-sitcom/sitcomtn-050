@@ -254,7 +254,7 @@ Institutional Contributions to Rubin Observatory Construction
 
   Point of Contact: Tony Tyson
 
-  Members: Tony Tyson, Craig Lage, Dan Polin, Adam Snyder
+  Members: Tony Tyson, Craig Lage, Dan Polin, Adam Snyder, Erfan Nourbakhsh, Sam Schmidt
 
 
 **University of California, Santa Cruz:** *SIT-Com support*
