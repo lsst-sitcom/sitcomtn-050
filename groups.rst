@@ -250,6 +250,13 @@ Institutional Contributions to Rubin Observatory Construction
   Members: Keith Bechtol, Peter Ferguson, Michael Martinez, Miranda Gorsuch
 
 
+**University of California, Davis:** *SIT-Com support*
+
+  Point of Contact: Tony Tyson
+
+  Members: Tony Tyson, Craig Lage, Dan Polin, Adam Snyder, Erfan Nourbakhsh, Sam Schmidt
+
+
 **University of California, Santa Cruz:** *SIT-Com support*
 
   Point of Contact: Steve Ritz
