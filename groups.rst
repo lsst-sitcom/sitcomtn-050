@@ -240,7 +240,7 @@ Institutional Contributions to Rubin Observatory Construction
 
   Point of Contact: Andy Connolly
 
-  Members: Andrew Connolly, John Franklin Crenshaw, Dino Bektesevic, Colin Chandler, Sam Wyatt, Pedro Bernardinelli, Yuankun (David) Wang, Steven Stetzler, Jake Kurlander, Chester Li, Max West, Drew Oldag, Carl Christoffersen, Doug Branton, Karlo Mrakovcic, Audrey Budlong
+  Members: Andrew Connolly, John Franklin Crenshaw, Dino Bektesevic, Colin Chandler, Sam Wyatt, Pedro Bernardinelli, Yuankun (David) Wang, Steven Stetzler, Jake Kurlander, Chester Li, Max West, Drew Oldag, Carl Christoffersen, Doug Branton, Karlo Mrakovcic
 
 
 **University of Wisconsin-Madison:** *SIT-Com support*
