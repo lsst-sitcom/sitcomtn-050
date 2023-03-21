@@ -64,7 +64,7 @@ International In-Kind Contribution Program
 
   Point of Contact: Giuseppe Riccio
 
-  Members: Giuseppe Riccio, Stefano Cavuoti, Massimo Brescia
+  Members: Giuseppe Riccio, Stefano Cavuoti, Massimo Brescia, Silvia Pietroni
 
 
 **JAP-JPG-S2:** *TBD*
