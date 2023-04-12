@@ -215,7 +215,7 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
 
   Point of Contact: Anja von der Linden
 
-  Members: Anja von der Linden, Ian Dell’Antonio, Zacharias Escalante, Shuang Liang, Radhakrishnan Srinivasan, Shenming Fu, Camille Avestruz, Ismael Mendoza, Simona Mei, Peter Melchior, Doug Clowe, Rémy Joseph, Cristobal Sifon
+  Members: Anja von der Linden, Ian Dell’Antonio, Zacharias Escalante, Shuang Liang, Radhakrishnan Srinivasan, Shenming Fu, Camille Avestruz, Ismael Mendoza, Simona Mei, Peter Melchior, Doug Clowe, Rémy Joseph, Cristobal Sifon, Benjamin Levine
 
 
 **US/Chile-17:** *Investigation and mitigation of sensor anomalies for ComCam and LSSTCam detectors using calibration and on-sky data*
