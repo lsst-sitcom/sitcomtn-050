@@ -309,6 +309,7 @@ groups:
       - Rémy Joseph
       - Cristobal Sifon
       - Benjamin Levine
+      - Prakruth Adari
   US/Chile-17:
     contact: Simona Murgia
     contribution: Investigation and mitigation of sensor anomalies for ComCam and LSSTCam detectors using calibration and on-sky data
