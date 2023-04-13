@@ -95,6 +95,13 @@ International In-Kind Contribution Program
   Members: Ian Shipsey, Jeff Tseng, Farrukh Azfar, Daniel Weatherill
 
 
+**Photometric Redshift Team:** *Implementation of shortlisted photo-z estimators to support early science*
+
+  Point of Contact: Melissa Graham
+
+  Members: Eric Charles, John Franklin Crenshaw, Melissa DeLucchi, Julia Gschwend, Shahab Joudaki, Bryce Kalmbach, Olivia Lynn, Alex Malz, Drew Oldag, Markus Rau, Sam Schmidt, Ignacio Sevilla Noarbe
+
+
 US/Chile Community Engagement with Rubin Observatory Commissioning Effort Program
 ---------------------------------------------------------------------------------
 
@@ -262,3 +269,14 @@ Institutional Contributions to Rubin Observatory Construction
   Point of Contact: Steve Ritz
 
   Members: Steve Ritz, Adrian Shestakov, Duncan Wood
+
+
+Ex Officio Contributions
+------------------------
+
+
+**Photometric Redshift Team:** *Implementation of shortlisted photo-z estimators to support early science*
+
+  Point of Contact: Melissa Graham
+
+  Members: Eric Charles, John Franklin Crenshaw, Melissa DeLucchi, Julia Gschwend, Shahab Joudaki, Bryce Kalmbach, Olivia Lynn, Alex Malz, Drew Oldag, Markus Rau, Sam Schmidt, Ignacio Sevilla Noarbe
