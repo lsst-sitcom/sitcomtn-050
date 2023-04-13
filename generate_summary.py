@@ -45,3 +45,11 @@ with open(outfile, 'w') as writer:
     for key in data["groups"].keys():
         if "University" in key and "US/Chile" not in key:
             writeGroupRST(data, key)
+
+    writer.write('\n\n')
+    writer.write('Ex Officio Contributions\n')
+    writer.write('------------------------\n')
+
+    for key in data["groups"].keys():
+        if key in ["Photometric Redshift Team"]:
+            writeGroupRST(data, key)

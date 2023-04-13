@@ -374,3 +374,19 @@ groups:
       - Steve Ritz
       - Adrian Shestakov
       - Duncan Wood
+  Photometric Redshift Team:
+    contact: Melissa Graham
+    contribution: Implementation of shortlisted photo-z estimators to support early science
+    members:
+      - Eric Charles
+      - John Franklin Crenshaw
+      - Melissa DeLucchi
+      - Julia Gschwend
+      - Shahab Joudaki
+      - Bryce Kalmbach
+      - Olivia Lynn
+      - Alex Malz
+      - Drew Oldag
+      - Markus Rau
+      - Sam Schmidt
+      - Ignacio Sevilla Noarbe
