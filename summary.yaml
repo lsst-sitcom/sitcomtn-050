@@ -55,6 +55,7 @@ groups:
       - Johann Cohen-Tanugi
       - Marina Ricci
       - Rance Solomon
+      - Philippe Gris
   FRA-INP-S9:
     contact: Cyrille Doux
     contribution: Science validation for object detection, weak lensing, and deblending
