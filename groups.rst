@@ -67,11 +67,11 @@ International In-Kind Contribution Program
   Members: Giuseppe Riccio, Stefano Cavuoti, Massimo Brescia, Silvia Pietroni
 
 
-**JAP-JPG-S2:** *TBD*
+**JAP-JPG-S2:** *Commissioning support in Chile and data analysis*
 
-  Point of Contact: Dr. Yutaka Komiyama
+  Point of Contact: Yousuke Utsumi
 
-  Members: TBD
+  Members: Yousuke Utsumi, Naoki Yasuda
 
 
 **KOR-KAS-S1:** *KASI Fellows for commissioning observing support*
