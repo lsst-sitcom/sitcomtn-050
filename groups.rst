@@ -71,7 +71,7 @@ International In-Kind Contribution Program
 
   Point of Contact: Yousuke Utsumi
 
-  Members: Yousuke Utsumi, Yasuda Naoki
+  Members: Yousuke Utsumi, Naoki Yasuda
 
 
 **KOR-KAS-S1:** *KASI Fellows for commissioning observing support*
