@@ -108,10 +108,11 @@ groups:
       - Massimo Brescia
       - Silvia Pietroni
   JAP-JPG-S2:
-    contact: Dr. Yutaka Komiyama
-    contribution: TBD
+    contact: Yousuke Utsumi
+    contribution: Commissioning support in Chile and data analysis
     members:
-      - TBD
+      - Yousuke Utsumi
+      - Yasuda Naoki
   KOR-KAS-S1:
     contact: Narae Hwang
     contribution: KASI Fellows for commissioning observing support
