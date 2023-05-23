@@ -233,7 +233,7 @@ Institutional Contributions to Rubin Observatory Construction
 
   Point of Contact: Chris Walter
 
-  Members: Chris Walter
+  Members: Chris Walter, Bekah Polen, Michael Troxel
 
 
 **Harvard University:** *SIT-Com support*
