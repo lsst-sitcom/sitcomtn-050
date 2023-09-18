@@ -155,6 +155,7 @@ groups:
     members:
       - Johnny Esteves
       - Marcelle Soares-Santos
+      - Sean MacBride
   US/Chile-03:
     contact: Siegfried Eggl
     contribution: Science validation of Solar System processing pipeline
