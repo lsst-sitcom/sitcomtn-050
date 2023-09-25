@@ -117,7 +117,7 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
 
   Point of Contact: Marcelle Soares-Santos
 
-  Members: Johnny Esteves, Marcelle Soares-Santos
+  Members: Johnny Esteves, Marcelle Soares-Santos, Sean MacBride
 
 
 **US/Chile-03:** *Science validation of Solar System processing pipeline*
