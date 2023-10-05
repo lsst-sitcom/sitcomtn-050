@@ -131,14 +131,14 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
 
   Point of Contact: Mike Jarvis
 
-  Members: Mike Jarvis, Rachel Mandelbaum, Tianqing Zhang, Claire-Alice Hébert, Sid Mau, Pat Burchat, Josh Meyers, Aaron Roodman, Theo Schutt, Chris Stubbs, Elana Urbach, Eske Pedersen, Brodi Elwood, Dan Weatherill, Arun Kannawadi, Erfan Nourbakhsh, Xiangchong Li, Alexandra Amon, Chihway Chang
+  Members: Mike Jarvis, Rachel Mandelbaum, Tianqing Zhang, Claire-Alice Hébert, Sid Mau, Pat Burchat, Josh Meyers, Aaron Roodman, Theo Schutt, Chris Stubbs, Elana Urbach, Eske Pedersen, Brodi Elwood, Dan Weatherill, Arun Kannawadi, Erfan Nourbakhsh, Xiangchong Li, Alexandra Amon, Chihway Chang, Andy Park
 
 
 **US/Chile-05:** *Science validation for weak lensing shear estimation and development of advanced image coaddition methods*
 
   Point of Contact: Matthew R. Becker
 
-  Members: Matthew R. Becker, Arun Kannawadi, Erin Sheldon, Michael Troxel, David Kirkby, Theo Schutt, Erfan Nourbakhsh
+  Members: Matthew R. Becker, Arun Kannawadi, Erin Sheldon, Michael Troxel, David Kirkby, Theo Schutt, Erfan Nourbakhsh, Andy Park
 
 
 **US/Chile-06:** *Science validation of galaxy photometry*
