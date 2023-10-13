@@ -29,7 +29,7 @@ International In-Kind Contribution Program
 
   Point of Contact: Pierre Antilogus
 
-  Members: Dominique Boutigny, Sabine Elles, Thibault Guillemin, Fabio Hernandez, Fabrice Feinstein, Dominique Fouchez, Benjamin Racine, André Tilquin, Emmanuel Gangler, Fabrice Jammes, Nicoleta Pauna, Pierre Antilogus, Pierre Astier, Claire Juramy, Aurélien Barrau, Johan Brégeon, Céline Combet, Marine Kuna, Johann Cohen-Tanugi, Marina Ricci, Rance Solomon, Philippe Gris, Andrea Jeremie
+  Members: Dominique Boutigny, Sabine Elles, Thibault Guillemin, Fabio Hernandez, Fabrice Feinstein, Dominique Fouchez, Benjamin Racine, André Tilquin, Emmanuel Gangler, Fabrice Jammes, Nicoleta Pauna, Pierre Antilogus, Pierre Astier, Claire Juramy, Aurélien Barrau, Johan Brégeon, Céline Combet, Marine Kuna, Johann Cohen-Tanugi, Marina Ricci, Rance Solomon, Philippe Gris, Andrea Jeremie, Nathan Amouroux
 
 
 **FRA-INP-S9:** *Science validation for object detection, weak lensing, and deblending*
