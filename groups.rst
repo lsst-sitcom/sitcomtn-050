@@ -240,7 +240,7 @@ Institutional Contributions to Rubin Observatory Construction
 
   Point of Contact: Chris Stubbs
 
-  Members: Chris Stubbs, Elana Urbach, Eske Pedersen, Dillon Brout, Ali Kurmus, Aris Zhu
+  Members: Chris Stubbs, Elana Urbach, Eske Pedersen, Dillon Brout, Ali Kurmus, Aris Zhu, Larom Segev
 
 
 **University of Washington:** *SIT-Com support*
