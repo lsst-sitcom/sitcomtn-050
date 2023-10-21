@@ -159,7 +159,7 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
 
   Point of Contact: Dave Monet
 
-  Members: Dave Monet, Mike Rich, John Gizis, Markus Rabus
+  Members: Dave Monet, Mike Rich, John Gizis, Markus Rabus, Easton Honaker
 
 
 **US/Chile-09:** *Science validation for strong gravitational lensing and active optics system commissioning*
