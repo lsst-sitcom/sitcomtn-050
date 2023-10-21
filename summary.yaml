@@ -137,6 +137,7 @@ groups:
       - Raphael Shirley
       - Nicholas Walton
       - Boris Leistedt
+      - Behnood Bandi
   UKD-UKD-S7:
     contact: Ian Shipsey
     contribution: Science validation for sensor characterization and PSF modelling
