@@ -60,7 +60,8 @@ groups:
       - Andrea Jeremie
       - Nathan Amouroux
       - Kelian Sommer
-      - Yassine Faris
+      - Corentin Ravoux
+      - Yassine Faris      
   FRA-INP-S9:
     contact: Cyrille Doux
     contribution: Science validation for object detection, weak lensing, and deblending
