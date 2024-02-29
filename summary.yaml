@@ -334,6 +334,12 @@ groups:
       - Simona Murgia
       - Alex Broughton
       - Johanna Paine
+  US/Chile-18:
+    contact: Felipe Barrientos
+    contribution: Observatory performance analysis support and development of logging tools
+    members:
+      - Felipe Barrientos
+      - Joaquin Hernandez
   Duke University:
     contact: Chris Walter
     contribution: SIT-Com support

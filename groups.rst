@@ -225,6 +225,13 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
   Members: Simona Murgia, Alex Broughton, Johanna Paine
 
 
+**US/Chile-18:** *Observatory performance analysis support and development of logging tools*
+
+  Point of Contact: Felipe Barrientos
+
+  Members: Felipe Barrientos, Joaquin Hernandez
+
+
 Institutional Contributions to Rubin Observatory Construction
 -------------------------------------------------------------
 
