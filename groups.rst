@@ -99,7 +99,7 @@ International In-Kind Contribution Program
 
   Point of Contact: Melissa Graham
 
-  Members: Eric Charles, John Franklin Crenshaw, Melissa DeLucchi, Julia Gschwend, Shahab Joudaki, Bryce Kalmbach, Olivia Lynn, Alex Malz, Drew Oldag, Markus Rau, Sam Schmidt, Ignacio Sevilla Noarbe
+  Members: Eric Charles, John Franklin Crenshaw, Melissa DeLucchi, Gloria Fonseca Alvarez, Julia Gschwend, Qianjun (Ellen) Hang, Shahab Joudaki, Bryce Kalmbach, Olivia Lynn, Alex Malz, Drew Oldag, Markus Rau, Sam Schmidt, Ignacio Sevilla Noarbe, Tianqing (TQ) Zhang
 
 
 US/Chile Community Engagement with Rubin Observatory Commissioning Effort Program
