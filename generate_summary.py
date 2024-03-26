@@ -27,7 +27,7 @@ with open(outfile, 'w') as writer:
     writer.write('------------------------------------------\n')
 
     for key in data["groups"].keys():
-        if "US/Chile" not in key and "University" not in key:
+        if "US/Chile" not in key and "University" not in key and "Photometric Redshift Team" not in key:
             writeGroupRST(data, key)
 
     writer.write('\n\n')
