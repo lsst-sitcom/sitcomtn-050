@@ -159,7 +159,7 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
 
   Point of Contact: Simon Birrer
 
-  Members: Simon Birrer, Paul Schechter, Tansu Daylan
+  Members: Simon Birrer, Paul Schechter, Tansu Daylan, Xiangyu Huang
 
 
 **US/Chile-10:** *Observing support and science validation of time series photometry*
