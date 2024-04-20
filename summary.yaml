@@ -152,6 +152,13 @@ groups:
       - Jeff Tseng
       - Farrukh Azfar
       - Daniel Weatherill
+  ARG-OIA:
+    contact: Dante Paz
+    contribution: SAL script development
+    members:
+      - Dante Paz
+      - Carolina Villalon
+      - Marco Augusto Rocchietti
   US/Chile-01:
     contact: Louise Edwards
     contribution: Observing support
@@ -419,6 +426,19 @@ groups:
       - Steve Ritz
       - Adrian Shestakov
       - Duncan Wood
+  Brazil:
+    contact: Luiz DaCosta
+    contribution: Visit database development
+    members:
+      - Luiz DaCosta
+      - Julia Gschwend
+      - Rodrigo Boufleur
+      - Glauber Costa Vila-Verde
+  Serbia:
+    contact: Marina Pavlovic
+    contribution: SIT-Com support on data analysis
+    members:
+      - Marina Pavlovic
   Photometric Redshift Team:
     contact: Melissa Graham
     contribution: Implementation of shortlisted photo-z estimators to support early science

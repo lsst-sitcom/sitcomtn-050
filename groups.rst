@@ -95,6 +95,13 @@ International In-Kind Contribution Program
   Members: Ian Shipsey, Jeff Tseng, Farrukh Azfar, Daniel Weatherill
 
 
+**ARG-OIA:** *SAL script development*
+
+  Point of Contact: Dante Paz
+
+  Members: Dante Paz, Carolina Villalon, Marco Augusto Rocchietti
+
+
 US/Chile Community Engagement with Rubin Observatory Commissioning Effort Program
 ---------------------------------------------------------------------------------
 
@@ -269,6 +276,24 @@ Institutional Contributions to Rubin Observatory Construction
   Point of Contact: Steve Ritz
 
   Members: Steve Ritz, Adrian Shestakov, Duncan Wood
+
+
+Voluntary International Contributions to Rubin Observatory Construction
+-----------------------------------------------------------------------
+
+
+**Brazil:** *Visit database development*
+
+  Point of Contact: Luiz DaCosta
+
+  Members: Luiz DaCosta, Julia Gschwend, Rodrigo Boufleur, Glauber Costa Vila-Verde
+
+
+**Serbia:** *SIT-Com support on data analysis*
+
+  Point of Contact: Marina Pavlovic
+
+  Members: Marina Pavlovic
 
 
 Ex Officio Contributions
