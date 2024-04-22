@@ -39,6 +39,8 @@ All members of the SIT-Com team are expected to follow the `professional standar
 Section 3.3 of this document lists several additional institutional contributions to Rubin Observatory construction based on agreements that were established prior to the formalization of the two programs mentioned above.
 These university-based groups are making contributions that are partially supported by external sources and are listed in this document together with other in-kind contributions for completeness.
 
+Section 3.4 of this document lists additional voluntary contributions from international groups separate from the International In-Kind Contribution Program.
+
 Section 3.4 of this document lists the ex officio members of the Commissioning Team, as described in Section 3.2 of the `Announcement of Opportunity <https://sitcomtn-010.lsst.io/>`__.
 
 Contributing Groups
