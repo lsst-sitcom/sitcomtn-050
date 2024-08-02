@@ -85,7 +85,7 @@ International In-Kind Contribution Program
 
   Point of Contact: Graham Smith
 
-  Members: Aaron Watkins, Jon Loveday, Graham Smith, Tom Wilson, Dan Ryczanowski, Gavin Dalton, Will Sutherland, Tim Naylor, Raphael Shirley, Nicholas Walton, Boris Leistedt, Behnood Bandi
+  Members: Aaron Watkins, Jon Loveday, Graham Smith, Tom Wilson, Dan Ryczanowski, Gavin Dalton, Will Sutherland, Tim Naylor, Raphael Shirley, Nicholas Walton, Boris Leistedt, Behnood Bandi, Poshak Gandhi
 
 
 **UKD-UKD-S7:** *Science validation for sensor characterization and PSF modelling*
