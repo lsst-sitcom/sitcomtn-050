@@ -21,6 +21,7 @@ groups:
       - Laurent Le Guillou
       - Eduardo Sepulveda
       - Sylvain Baumont
+      - Thierry Souverin
   FRA-INP-S7:
     contact: Marc Moniez
     contribution: AuxTel support

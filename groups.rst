@@ -15,7 +15,7 @@ International In-Kind Contribution Program
 
   Point of Contact: Jérémy Neveu
 
-  Members: Jérémy Neveu, Laurent Le Guillou, Eduardo Sepulveda, Sylvain Baumont
+  Members: Jérémy Neveu, Laurent Le Guillou, Eduardo Sepulveda, Sylvain Baumont, Thierry Souverin
 
 
 **FRA-INP-S7:** *AuxTel support*
