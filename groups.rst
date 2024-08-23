@@ -131,7 +131,7 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
 
   Point of Contact: Mike Jarvis
 
-  Members: Mike Jarvis, Rachel Mandelbaum, Tianqing Zhang, Claire-Alice Hébert, Sid Mau, Pat Burchat, Josh Meyers, Aaron Roodman, Theo Schutt, Chris Stubbs, Elana Urbach, Eske Pedersen, Brodi Elwood, Dan Weatherill, Arun Kannawadi, Erfan Nourbakhsh, Xiangchong Li, Alexandra Amon, Chihway Chang, Andy Park, Jazmine Jefferson, Yuuki Omori
+  Members: Mike Jarvis, Rachel Mandelbaum, Tianqing Zhang, Claire-Alice Hébert, Sid Mau, Pat Burchat, Josh Meyers, Aaron Roodman, Theo Schutt, Chris Stubbs, Elana Urbach, Eske Pedersen, Brodi Elwood, Dan Weatherill, Arun Kannawadi, Erfan Nourbakhsh, Xiangchong Li, Alexandra Amon, Chihway Chang, Andy Park, Jazmine Jefferson, Yuuki Omori, Aashay Pai
 
 
 **US/Chile-05:** *Science validation for weak lensing shear estimation and development of advanced image coaddition methods*
