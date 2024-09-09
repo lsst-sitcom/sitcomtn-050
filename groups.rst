@@ -261,7 +261,7 @@ Institutional Contributions to Rubin Observatory Construction
 
   Point of Contact: Keith Bechtol
 
-  Members: Keith Bechtol, Peter Ferguson, Michael Martinez, Miranda Gorsuch
+  Members: Keith Bechtol, Peter Ferguson, Michael Martinez, Miranda Gorsuch, Kayleigh Excell
 
 
 **University of California, Davis:** *SIT-Com support*
