@@ -123,6 +123,12 @@ groups:
     members:
       - Yousuke Utsumi
       - Naoki Yasuda
+  JAP-JPG-S3:
+    contact: Hisanori Furusawa
+    contribution: Serving Rubin Science Platform (Development and Support)
+    members:
+      - Hisanori Furusawa
+      - Michitaro Koike
   KOR-KAS-S1:
     contact: Narae Hwang
     contribution: KASI Fellows for commissioning observing support
