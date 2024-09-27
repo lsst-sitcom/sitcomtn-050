@@ -187,7 +187,7 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
 
   Point of Contact: Ian Dell'Antonio
 
-  Members: Ian Dell’Antonio, Jessica Nelson, Zacharias Escalante, Alex Drlica-Wagner, Yao-Yuan Mao, Alexie Leauthaud, Yuanyuan Zhang, Annika Peter, Anja von der Linden, Matt Kwiecien, Tesla Jeltema, Anthony Englert, Jiaxuan Li, Conghao Zhou
+  Members: Ian Dell’Antonio, Jessica Nelson, Zacharias Escalante, Alex Drlica-Wagner, Yao-Yuan Mao, Alexie Leauthaud, Yuanyuan Zhang, Annika Peter, Anja von der Linden, Matt Kwiecien, Tesla Jeltema, Anthony Englert, Jiaxuan Li, Conghao Zhou, Soren Helhoski
 
 
 **US/Chile-13:** *Science validation for galaxy clustering analyses*
