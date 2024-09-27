@@ -22,6 +22,7 @@ groups:
       - Eduardo Sepulveda
       - Sylvain Baumont
       - Thierry Souverin
+      - Enya Van den Abeele
   FRA-INP-S7:
     contact: Marc Moniez
     contribution: AuxTel support
@@ -32,6 +33,7 @@ groups:
       - Jérémy Neveu
       - Laurent Le Guillou
       - Joseph Chevalier
+      - Enya Van den Abeele
   FRA-INP-S8:
      contact: Pierre Antilogus
      contribution: Commissioning at pixel level, data quality, and “on-sky” calibration
