@@ -15,14 +15,14 @@ International In-Kind Contribution Program
 
   Point of Contact: Jérémy Neveu
 
-  Members: Jérémy Neveu, Laurent Le Guillou, Eduardo Sepulveda, Sylvain Baumont, Thierry Souverin
+  Members: Jérémy Neveu, Laurent Le Guillou, Eduardo Sepulveda, Sylvain Baumont, Thierry Souverin, Enya Van den Abeele
 
 
 **FRA-INP-S7:** *AuxTel support*
 
   Point of Contact: Marc Moniez
 
-  Members: Marc Moniez, Sylvie Dagoret-Campagne, Martin Monroy, Jérémy Neveu, Laurent Le Guillou, Joseph Chevalier
+  Members: Marc Moniez, Sylvie Dagoret-Campagne, Martin Monroy, Jérémy Neveu, Laurent Le Guillou, Joseph Chevalier, Enya Van den Abeele
 
 
 **FRA-INP-S8:** *Commissioning at pixel level, data quality, and “on-sky” calibration*
