@@ -152,7 +152,7 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
 
   Point of Contact: Brant Robertson
 
-  Members: Brant Robertson, Ryan Hausen, Hubert Bretonnière
+  Members: Brant Robertson, Ryan Hausen, Anavi Uppal
 
 
 **US/Chile-07:** *Science validation for Solar System object linkage*
