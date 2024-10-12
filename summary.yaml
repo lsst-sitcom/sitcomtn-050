@@ -66,6 +66,8 @@ groups:
       - Corentin Ravoux
       - Yassine Faris
       - Cyrille Rosset
+      - Didier Verkindt
+      - Antoine Bernard
   FRA-INP-S9:
     contact: Cyrille Doux
     contribution: Science validation for object detection, weak lensing, and deblending
@@ -155,6 +157,11 @@ groups:
       - Boris Leistedt
       - Behnood Bandi
       - Poshak Gandhi
+      - Elham Saremi
+      - Richard McMahon
+      - Manda Banerji
+      - Sugata Kaviraj
+      - Chris Collins
   UKD-UKD-S7:
     contact: Ian Shipsey
     contribution: Science validation for sensor characterization and PSF modelling
@@ -215,6 +222,7 @@ groups:
       - Jazmine Jefferson
       - Yuuki Omori
       - Aashay Pai
+      - Katherine Laliotis
   US/Chile-05:
     contact: Matthew R. Becker
     contribution: Science validation for weak lensing shear estimation and development of advanced image coaddition methods
@@ -234,7 +242,7 @@ groups:
     members:
       - Brant Robertson
       - Ryan Hausen
-      - Hubert Bretonnière
+      - Anavi Uppal
   US/Chile-07:
     contact: Matthew J Holman
     contribution: Science validation for Solar System object linkage

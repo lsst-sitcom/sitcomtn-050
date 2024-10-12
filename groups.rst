@@ -29,7 +29,7 @@ International In-Kind Contribution Program
 
   Point of Contact: Pierre Antilogus
 
-  Members: Dominique Boutigny, Sabine Elles, Thibault Guillemin, Fabio Hernandez, Fabrice Feinstein, Dominique Fouchez, Benjamin Racine, André Tilquin, Emmanuel Gangler, Fabrice Jammes, Nicoleta Pauna, Pierre Antilogus, Pierre Astier, Claire Juramy, Aurélien Barrau, Johan Brégeon, Céline Combet, Marine Kuna, Johann Cohen-Tanugi, Marina Ricci, Rance Solomon, Philippe Gris, Andrea Jeremie, Nathan Amouroux, Kelian Sommer, Corentin Ravoux, Yassine Faris, Cyrille Rosset
+  Members: Dominique Boutigny, Sabine Elles, Thibault Guillemin, Fabio Hernandez, Fabrice Feinstein, Dominique Fouchez, Benjamin Racine, André Tilquin, Emmanuel Gangler, Fabrice Jammes, Nicoleta Pauna, Pierre Antilogus, Pierre Astier, Claire Juramy, Aurélien Barrau, Johan Brégeon, Céline Combet, Marine Kuna, Johann Cohen-Tanugi, Marina Ricci, Rance Solomon, Philippe Gris, Andrea Jeremie, Nathan Amouroux, Kelian Sommer, Corentin Ravoux, Yassine Faris, Cyrille Rosset, Didier Verkindt, Antoine Bernard
 
 
 **FRA-INP-S9:** *Science validation for object detection, weak lensing, and deblending*
@@ -92,7 +92,7 @@ International In-Kind Contribution Program
 
   Point of Contact: Graham Smith
 
-  Members: Aaron Watkins, Jon Loveday, Graham Smith, Tom Wilson, Dan Ryczanowski, Gavin Dalton, Will Sutherland, Tim Naylor, Raphael Shirley, Nicholas Walton, Boris Leistedt, Behnood Bandi, Poshak Gandhi
+  Members: Aaron Watkins, Jon Loveday, Graham Smith, Tom Wilson, Dan Ryczanowski, Gavin Dalton, Will Sutherland, Tim Naylor, Raphael Shirley, Nicholas Walton, Boris Leistedt, Behnood Bandi, Poshak Gandhi, Elham Saremi, Richard McMahon, Manda Banerji, Sugata Kaviraj, Chris Collins
 
 
 **UKD-UKD-S7:** *Science validation for sensor characterization and PSF modelling*
@@ -138,7 +138,7 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
 
   Point of Contact: Mike Jarvis
 
-  Members: Mike Jarvis, Rachel Mandelbaum, Tianqing Zhang, Claire-Alice Hébert, Sid Mau, Pat Burchat, Josh Meyers, Aaron Roodman, Theo Schutt, Chris Stubbs, Elana Urbach, Eske Pedersen, Brodi Elwood, Dan Weatherill, Arun Kannawadi, Erfan Nourbakhsh, Xiangchong Li, Alexandra Amon, Chihway Chang, Andy Park, Jazmine Jefferson, Yuuki Omori, Aashay Pai
+  Members: Mike Jarvis, Rachel Mandelbaum, Tianqing Zhang, Claire-Alice Hébert, Sid Mau, Pat Burchat, Josh Meyers, Aaron Roodman, Theo Schutt, Chris Stubbs, Elana Urbach, Eske Pedersen, Brodi Elwood, Dan Weatherill, Arun Kannawadi, Erfan Nourbakhsh, Xiangchong Li, Alexandra Amon, Chihway Chang, Andy Park, Jazmine Jefferson, Yuuki Omori, Aashay Pai, Katherine Laliotis
 
 
 **US/Chile-05:** *Science validation for weak lensing shear estimation and development of advanced image coaddition methods*
@@ -152,7 +152,7 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
 
   Point of Contact: Brant Robertson
 
-  Members: Brant Robertson, Ryan Hausen, Hubert Bretonnière
+  Members: Brant Robertson, Ryan Hausen, Anavi Uppal
 
 
 **US/Chile-07:** *Science validation for Solar System object linkage*
