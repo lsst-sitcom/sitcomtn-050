@@ -157,6 +157,11 @@ groups:
       - Boris Leistedt
       - Behnood Bandi
       - Poshak Gandhi
+      - Elham Saremi
+      - Richard McMahon
+      - Manda Banerji
+      - Sugata Kaviraj
+      - Chris Collins
   UKD-UKD-S7:
     contact: Ian Shipsey
     contribution: Science validation for sensor characterization and PSF modelling
