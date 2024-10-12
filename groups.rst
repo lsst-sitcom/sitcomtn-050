@@ -74,6 +74,13 @@ International In-Kind Contribution Program
   Members: Yousuke Utsumi, Naoki Yasuda
 
 
+**JAP-JPG-S3:** *Serving Rubin Science Platform (Development and Support)*
+
+  Point of Contact: Hisanori Furusawa
+
+  Members: Hisanori Furusawa, Michitaro Koike
+
+
 **KOR-KAS-S1:** *KASI Fellows for commissioning observing support*
 
   Point of Contact: Narae Hwang
