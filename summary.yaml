@@ -3,10 +3,10 @@
 
 groups:
   ESP-BCM-S2:
-    contact: Ignacio Sevilla-Noarbe
+    contact: Ignacio Sevilla Noarbe
     contribution: Technical support in commissioning
     members:
-      - Ignacio Sevilla
+      - Ignacio Sevilla Noarbe
       - Cristobal Padilla
       - Otger Ballester
       - Jordi Arellano
@@ -72,6 +72,7 @@ groups:
     contact: Cyrille Doux
     contribution: Science validation for object detection, weak lensing, and deblending
     members:
+      - Cyrille Doux
       - Eric Aubourg
       - Cécile Roucelle
       - Alexandre Boucaud
@@ -212,7 +213,7 @@ groups:
       - Elana Urbach
       - Eske Pedersen
       - Brodi Elwood
-      - Dan Weatherill
+      - Daniel Weatherill
       - Arun Kannawadi
       - Erfan Nourbakhsh
       - Xiangchong Li
@@ -299,7 +300,7 @@ groups:
     contact: Ian Dell'Antonio
     contribution: Science validation for sky background modeling and low surface brightness science
     members:
-      - Ian Dell’Antonio
+      - Ian Dell'Antonio
       - Jessica Nelson
       - Zacharias Escalante
       - Alex Drlica-Wagner
@@ -334,7 +335,7 @@ groups:
     contribution: Science validation of photometric calibration for early science
     members:
       - Elana Urbach
-      - Christopher Stubbs
+      - Chris Stubbs
       - Eske Pedersen
       - Saurabh Jha
       - Conor Larison
@@ -357,7 +358,7 @@ groups:
     contribution: Science validation of galaxy photometry and testing deblending algorithms in cluster fields
     members:
       - Anja von der Linden
-      - Ian Dell’Antonio
+      - Ian Dell'Antonio
       - Zacharias Escalante
       - Shuang Liang
       - Radhakrishnan Srinivasan
@@ -414,7 +415,6 @@ groups:
       - John Franklin Crenshaw
       - Dino Bektesevic
       - Colin Chandler
-      - Sam Wyatt
       - Pedro Bernardinelli
       - Yuankun (David) Wang
       - Steven Stetzler
@@ -422,10 +422,14 @@ groups:
       - Chester Li
       - Max West
       - Drew Oldag
-      - Carl Christoffersen
       - Doug Branton
       - Karlo Mrakovcic
       - Audrey Budlong
+      - Wilson Beebe
+      - Michael Tauraso
+      - Derek Jones
+      - Sandro Campos
+      - Jeremy Kubica
   University of Wisconsin-Madison:
     contact: Keith Bechtol
     contribution: SIT-Com support
@@ -483,4 +487,5 @@ groups:
       - Markus Rau
       - Sam Schmidt
       - Ignacio Sevilla Noarbe
-      - Tianqing (TQ) Zhang
+      - Tianqing Zhang
+      - Mi Dai

@@ -6,9 +6,9 @@ International In-Kind Contribution Program
 
 **ESP-BCM-S2:** *Technical support in commissioning*
 
-  Point of Contact: Ignacio Sevilla-Noarbe
+  Point of Contact: Ignacio Sevilla Noarbe
 
-  Members: Ignacio Sevilla, Cristobal Padilla, Otger Ballester, Jordi Arellano, Ricard Casas, Cristóbal Pío, Laura Toribio
+  Members: Ignacio Sevilla Noarbe, Cristobal Padilla, Otger Ballester, Jordi Arellano, Ricard Casas, Cristóbal Pío, Laura Toribio
 
 
 **FRA-INP-S6:** *Calibration hardware (CBP, flat screen, dome illumination, etc.)*
@@ -36,7 +36,7 @@ International In-Kind Contribution Program
 
   Point of Contact: Cyrille Doux
 
-  Members: Eric Aubourg, Cécile Roucelle, Alexandre Boucaud, Justine Zeghal, Biswajit Biswas, Axel Guinot, Marina Ricci, Manon Ramel
+  Members: Cyrille Doux, Eric Aubourg, Cécile Roucelle, Alexandre Boucaud, Justine Zeghal, Biswajit Biswas, Axel Guinot, Marina Ricci, Manon Ramel
 
 
 **FRA-INP-S10:** *Camera hardware optimization*
@@ -138,7 +138,7 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
 
   Point of Contact: Mike Jarvis
 
-  Members: Mike Jarvis, Rachel Mandelbaum, Tianqing Zhang, Claire-Alice Hébert, Sid Mau, Pat Burchat, Josh Meyers, Aaron Roodman, Theo Schutt, Chris Stubbs, Elana Urbach, Eske Pedersen, Brodi Elwood, Dan Weatherill, Arun Kannawadi, Erfan Nourbakhsh, Xiangchong Li, Alexandra Amon, Chihway Chang, Andy Park, Jazmine Jefferson, Yuuki Omori, Aashay Pai, Katherine Laliotis
+  Members: Mike Jarvis, Rachel Mandelbaum, Tianqing Zhang, Claire-Alice Hébert, Sid Mau, Pat Burchat, Josh Meyers, Aaron Roodman, Theo Schutt, Chris Stubbs, Elana Urbach, Eske Pedersen, Brodi Elwood, Daniel Weatherill, Arun Kannawadi, Erfan Nourbakhsh, Xiangchong Li, Alexandra Amon, Chihway Chang, Andy Park, Jazmine Jefferson, Yuuki Omori, Aashay Pai, Katherine Laliotis
 
 
 **US/Chile-05:** *Science validation for weak lensing shear estimation and development of advanced image coaddition methods*
@@ -194,7 +194,7 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
 
   Point of Contact: Ian Dell'Antonio
 
-  Members: Ian Dell’Antonio, Jessica Nelson, Zacharias Escalante, Alex Drlica-Wagner, Yao-Yuan Mao, Alexie Leauthaud, Yuanyuan Zhang, Annika Peter, Anja von der Linden, Matt Kwiecien, Tesla Jeltema, Anthony Englert, Jiaxuan Li, Conghao Zhou, Soren Helhoski, Andrew Engel
+  Members: Ian Dell'Antonio, Jessica Nelson, Zacharias Escalante, Alex Drlica-Wagner, Yao-Yuan Mao, Alexie Leauthaud, Yuanyuan Zhang, Annika Peter, Anja von der Linden, Matt Kwiecien, Tesla Jeltema, Anthony Englert, Jiaxuan Li, Conghao Zhou, Soren Helhoski, Andrew Engel
 
 
 **US/Chile-13:** *Science validation for galaxy clustering analyses*
@@ -208,7 +208,7 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
 
   Point of Contact: Elana Urbach
 
-  Members: Elana Urbach, Christopher Stubbs, Eske Pedersen, Saurabh Jha, Conor Larison, Douglas Tucker, Matt Wiesner, Daniel Perrefort, Michael Wood-Vasey, Gautham Narayan, Konstantin Malanchev, Melissa Butner, J. Allyn Smith
+  Members: Elana Urbach, Chris Stubbs, Eske Pedersen, Saurabh Jha, Conor Larison, Douglas Tucker, Matt Wiesner, Daniel Perrefort, Michael Wood-Vasey, Gautham Narayan, Konstantin Malanchev, Melissa Butner, J. Allyn Smith
 
 
 **US/Chile-15:** *Support for commissioning data visualization and drill-down analysis*
@@ -222,7 +222,7 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
 
   Point of Contact: Anja von der Linden
 
-  Members: Anja von der Linden, Ian Dell’Antonio, Zacharias Escalante, Shuang Liang, Radhakrishnan Srinivasan, Shenming Fu, Camille Avestruz, Ismael Mendoza, Simona Mei, Peter Melchior, Doug Clowe, Rémy Joseph, Cristobal Sifon, Benjamin Levine, Prakruth Adari
+  Members: Anja von der Linden, Ian Dell'Antonio, Zacharias Escalante, Shuang Liang, Radhakrishnan Srinivasan, Shenming Fu, Camille Avestruz, Ismael Mendoza, Simona Mei, Peter Melchior, Doug Clowe, Rémy Joseph, Cristobal Sifon, Benjamin Levine, Prakruth Adari
 
 
 **US/Chile-17:** *Investigation and mitigation of sensor anomalies for ComCam and LSSTCam detectors using calibration and on-sky data*
@@ -261,7 +261,7 @@ Institutional Contributions to Rubin Observatory Construction
 
   Point of Contact: Andy Connolly
 
-  Members: Andrew Connolly, John Franklin Crenshaw, Dino Bektesevic, Colin Chandler, Sam Wyatt, Pedro Bernardinelli, Yuankun (David) Wang, Steven Stetzler, Jake Kurlander, Chester Li, Max West, Drew Oldag, Carl Christoffersen, Doug Branton, Karlo Mrakovcic, Audrey Budlong
+  Members: Andrew Connolly, John Franklin Crenshaw, Dino Bektesevic, Colin Chandler, Pedro Bernardinelli, Yuankun (David) Wang, Steven Stetzler, Jake Kurlander, Chester Li, Max West, Drew Oldag, Doug Branton, Karlo Mrakovcic, Audrey Budlong, Wilson Beebe, Michael Tauraso, Derek Jones, Sandro Campos, Jeremy Kubica
 
 
 **University of Wisconsin-Madison:** *SIT-Com support*
@@ -311,4 +311,4 @@ Ex Officio Contributions
 
   Point of Contact: Melissa Graham
 
-  Members: Eric Charles, John Franklin Crenshaw, Melissa DeLucchi, Gloria Fonseca Alvarez, Julia Gschwend, Qianjun (Ellen) Hang, Shahab Joudaki, Bryce Kalmbach, Olivia Lynn, Alex Malz, Drew Oldag, Markus Rau, Sam Schmidt, Ignacio Sevilla Noarbe, Tianqing (TQ) Zhang
+  Members: Eric Charles, John Franklin Crenshaw, Melissa DeLucchi, Gloria Fonseca Alvarez, Julia Gschwend, Qianjun (Ellen) Hang, Shahab Joudaki, Bryce Kalmbach, Olivia Lynn, Alex Malz, Drew Oldag, Markus Rau, Sam Schmidt, Ignacio Sevilla Noarbe, Tianqing Zhang, Mi Dai
