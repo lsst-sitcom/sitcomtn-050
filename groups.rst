@@ -50,7 +50,7 @@ International In-Kind Contribution Program
 
   Point of Contact: Felice Cusano
 
-  Members: Felice Cusano, Rodolfo Canestrari, Gabriele Rodeghiero, Enrico Giro, Luca Rosignoli
+  Members: Felice Cusano, Rodolfo Canestrari, Gabriele Rodeghiero, Enrico Giro, Luca Rosignoli, Alessio Taranto
 
 
 **ITA-INA-S22:** *Image quality analysis*
