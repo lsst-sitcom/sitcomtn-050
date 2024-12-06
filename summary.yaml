@@ -68,6 +68,7 @@ groups:
       - Cyrille Rosset
       - Didier Verkindt
       - Antoine Bernard
+      - Eduardo Barroso
   FRA-INP-S9:
     contact: Cyrille Doux
     contribution: Science validation for object detection, weak lensing, and deblending
@@ -164,6 +165,7 @@ groups:
       - Manda Banerji
       - Sugata Kaviraj
       - Chris Collins
+      - Anupreeta More
   UKD-UKD-S7:
     contact: Ian Shipsey
     contribution: Science validation for sensor characterization and PSF modelling
@@ -348,6 +350,7 @@ groups:
       - Konstantin Malanchev
       - Melissa Butner
       - J. Allyn Smith
+      - Meagan Porter
   US/Chile-15:
     contact: David Kirkby
     contribution: Support for commissioning data visualization and drill-down analysis
@@ -450,8 +453,8 @@ groups:
       - Craig Lage
       - Dan Polin
       - Adam Snyder
-      - Erfan Nourbakhsh
       - Sam Schmidt
+      - Norris Bach
   University of California, Santa Cruz:
     contact: Steve Ritz
     contribution: SIT-Com support
