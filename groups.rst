@@ -29,7 +29,7 @@ International In-Kind Contribution Program
 
   Point of Contact: Pierre Antilogus
 
-  Members: Dominique Boutigny, Sabine Elles, Thibault Guillemin, Fabio Hernandez, Fabrice Feinstein, Dominique Fouchez, Benjamin Racine, André Tilquin, Emmanuel Gangler, Fabrice Jammes, Nicoleta Pauna, Pierre Antilogus, Pierre Astier, Claire Juramy, Aurélien Barrau, Johan Brégeon, Céline Combet, Marine Kuna, Johann Cohen-Tanugi, Marina Ricci, Rance Solomon, Philippe Gris, Andrea Jeremie, Nathan Amouroux, Kelian Sommer, Corentin Ravoux, Yassine Faris, Cyrille Rosset, Didier Verkindt, Antoine Bernard
+  Members: Dominique Boutigny, Sabine Elles, Thibault Guillemin, Fabio Hernandez, Fabrice Feinstein, Dominique Fouchez, Benjamin Racine, André Tilquin, Emmanuel Gangler, Fabrice Jammes, Nicoleta Pauna, Pierre Antilogus, Pierre Astier, Claire Juramy, Aurélien Barrau, Johan Brégeon, Céline Combet, Marine Kuna, Johann Cohen-Tanugi, Marina Ricci, Rance Solomon, Philippe Gris, Andrea Jeremie, Nathan Amouroux, Kelian Sommer, Corentin Ravoux, Yassine Faris, Cyrille Rosset, Didier Verkindt, Antoine Bernard, Eduardo Barroso
 
 
 **FRA-INP-S9:** *Science validation for object detection, weak lensing, and deblending*
@@ -92,7 +92,7 @@ International In-Kind Contribution Program
 
   Point of Contact: Graham Smith
 
-  Members: Aaron Watkins, Jon Loveday, Graham Smith, Tom Wilson, Dan Ryczanowski, Gavin Dalton, Will Sutherland, Tim Naylor, Raphael Shirley, Nicholas Walton, Boris Leistedt, Behnood Bandi, Poshak Gandhi, Elham Saremi, Richard McMahon, Manda Banerji, Sugata Kaviraj, Chris Collins
+  Members: Aaron Watkins, Jon Loveday, Graham Smith, Tom Wilson, Dan Ryczanowski, Gavin Dalton, Will Sutherland, Tim Naylor, Raphael Shirley, Nicholas Walton, Boris Leistedt, Behnood Bandi, Poshak Gandhi, Elham Saremi, Richard McMahon, Manda Banerji, Sugata Kaviraj, Chris Collins, Anupreeta More
 
 
 **UKD-UKD-S7:** *Science validation for sensor characterization and PSF modelling*
@@ -208,7 +208,7 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
 
   Point of Contact: Elana Urbach
 
-  Members: Elana Urbach, Chris Stubbs, Eske Pedersen, Saurabh Jha, Conor Larison, Douglas Tucker, Matt Wiesner, Daniel Perrefort, Michael Wood-Vasey, Gautham Narayan, Konstantin Malanchev, Melissa Butner, J. Allyn Smith
+  Members: Elana Urbach, Chris Stubbs, Eske Pedersen, Saurabh Jha, Conor Larison, Douglas Tucker, Matt Wiesner, Daniel Perrefort, Michael Wood-Vasey, Gautham Narayan, Konstantin Malanchev, Melissa Butner, J. Allyn Smith, Meagan Porter
 
 
 **US/Chile-15:** *Support for commissioning data visualization and drill-down analysis*
@@ -275,7 +275,7 @@ Institutional Contributions to Rubin Observatory Construction
 
   Point of Contact: Tony Tyson
 
-  Members: Tony Tyson, Craig Lage, Dan Polin, Adam Snyder, Erfan Nourbakhsh, Sam Schmidt
+  Members: Tony Tyson, Craig Lage, Dan Polin, Adam Snyder, Sam Schmidt, Norris Bach
 
 
 **University of California, Santa Cruz:** *SIT-Com support*
