@@ -23,6 +23,8 @@ groups:
       - Sylvain Baumont
       - Thierry Souverin
       - Enya Van den Abeele
+      - Nathan Amouroux
+      - Johan Bregeon
   FRA-INP-S7:
     contact: Marc Moniez
     contribution: AuxTel support
@@ -69,6 +71,11 @@ groups:
       - Didier Verkindt
       - Antoine Bernard
       - Eduardo Barroso
+      - Narei Lorenzo-Martinez
+      - Vincent Reverdy
+      - Tania Regimbau
+      - Yves Zolnierowski
+      - Marina Masson
   FRA-INP-S9:
     contact: Cyrille Doux
     contribution: Science validation for object detection, weak lensing, and deblending

@@ -15,7 +15,7 @@ International In-Kind Contribution Program
 
   Point of Contact: Jérémy Neveu
 
-  Members: Jérémy Neveu, Laurent Le Guillou, Eduardo Sepulveda, Sylvain Baumont, Thierry Souverin, Enya Van den Abeele
+  Members: Jérémy Neveu, Laurent Le Guillou, Eduardo Sepulveda, Sylvain Baumont, Thierry Souverin, Enya Van den Abeele, Nathan Amouroux, Johan Bregeon
 
 
 **FRA-INP-S7:** *AuxTel support*
@@ -29,7 +29,7 @@ International In-Kind Contribution Program
 
   Point of Contact: Pierre Antilogus
 
-  Members: Dominique Boutigny, Sabine Elles, Thibault Guillemin, Fabio Hernandez, Fabrice Feinstein, Dominique Fouchez, Benjamin Racine, André Tilquin, Emmanuel Gangler, Fabrice Jammes, Nicoleta Pauna, Pierre Antilogus, Pierre Astier, Claire Juramy, Aurélien Barrau, Johan Brégeon, Céline Combet, Marine Kuna, Johann Cohen-Tanugi, Marina Ricci, Rance Solomon, Philippe Gris, Andrea Jeremie, Nathan Amouroux, Kelian Sommer, Corentin Ravoux, Yassine Faris, Cyrille Rosset, Didier Verkindt, Antoine Bernard, Eduardo Barroso
+  Members: Dominique Boutigny, Sabine Elles, Thibault Guillemin, Fabio Hernandez, Fabrice Feinstein, Dominique Fouchez, Benjamin Racine, André Tilquin, Emmanuel Gangler, Fabrice Jammes, Nicoleta Pauna, Pierre Antilogus, Pierre Astier, Claire Juramy, Aurélien Barrau, Johan Brégeon, Céline Combet, Marine Kuna, Johann Cohen-Tanugi, Marina Ricci, Rance Solomon, Philippe Gris, Andrea Jeremie, Nathan Amouroux, Kelian Sommer, Corentin Ravoux, Yassine Faris, Cyrille Rosset, Didier Verkindt, Antoine Bernard, Eduardo Barroso, Narei Lorenzo-Martinez, Vincent Reverdy, Tania Regimbau, Yves Zolnierowski, Marina Masson
 
 
 **FRA-INP-S9:** *Science validation for object detection, weak lensing, and deblending*
