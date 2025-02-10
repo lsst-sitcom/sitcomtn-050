@@ -145,7 +145,7 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
 
   Point of Contact: Matthew R. Becker
 
-  Members: Matthew R. Becker, Arun Kannawadi, Erin Sheldon, Michael Troxel, David Kirkby, Theo Schutt, Erfan Nourbakhsh, Andy Park, Tae-Hyeon Shin
+  Members: Matthew R. Becker, Arun Kannawadi, Erin Sheldon, Michael Troxel, David Kirkby, Theo Schutt, Erfan Nourbakhsh, Andy Park, Tae-Hyeon Shin, Biswajit Biswas
 
 
 **US/Chile-06:** *Science validation of galaxy photometry*
