@@ -187,7 +187,7 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
 
   Point of Contact: Michael Wood-Vasey
 
-  Members: Michael Wood-Vasey, Shu Liu, Bruno Sánchez, Gautham Narayan, Amanda Wasserman, Rick Kessler, Bob Armstrong, Saurabh Jha, Federica Bianco, Tatiana Acero Cuellar, Benjamin Racine, Dominique Fouchez, Rob Knop, Maya Guy, Robert Hynes, Masao Sako, Aditya Inada Somasundaram, Jillian Paulin, Cole Meldorf, Martin Millon
+  Members: Michael Wood-Vasey, Shu Liu, Bruno Sánchez, Gautham Narayan, Amanda Wasserman, Rick Kessler, Bob Armstrong, Saurabh Jha, Federica Bianco, Tatiana Acero Cuellar, Benjamin Racine, Dominique Fouchez, Rob Knop, Maya Guy, Robert Hynes, Masao Sako, Aditya Inada Somasundaram, Jillian Paulin, Cole Meldorf, Martin Millon, Shreya Anand
 
 
 **US/Chile-12:** *Science validation for sky background modeling and low surface brightness science*
