@@ -173,6 +173,11 @@ groups:
       - Sugata Kaviraj
       - Chris Collins
       - Anupreeta More
+      - Aprajita Verma
+      - Kathy Romer
+      - Paul Giles
+      - Andres Ponte Perez
+      - Suhail Dhawan
   UKD-UKD-S7:
     contact: Ian Shipsey
     contribution: Science validation for sensor characterization and PSF modelling
@@ -278,6 +283,7 @@ groups:
       - Paul Schechter
       - Tansu Daylan
       - Xiangyu Huang
+      - Timo Anguita
   US/Chile-10:
     contact: Markus Rabus
     contribution: Observing support and science validation of time series photometry
