@@ -15,7 +15,7 @@ International In-Kind Contribution Program
 
   Point of Contact: Jérémy Neveu
 
-  Members: Jérémy Neveu, Laurent Le Guillou, Eduardo Sepulveda, Sylvain Baumont, Thierry Souverin, Enya Van den Abeele, Nathan Amouroux, Johan Bregeon
+  Members: Jérémy Neveu, Laurent Le Guillou, Eduardo Sepulveda, Sylvain Baumont, Thierry Souverin, Enya Van den Abeele, Nathan Amouroux, Johan Bregeon, Angelo Lamure-Fontani
 
 
 **FRA-INP-S7:** *AuxTel support*
@@ -29,14 +29,14 @@ International In-Kind Contribution Program
 
   Point of Contact: Pierre Antilogus
 
-  Members: Dominique Boutigny, Sabine Elles, Thibault Guillemin, Fabio Hernandez, Fabrice Feinstein, Dominique Fouchez, Benjamin Racine, André Tilquin, Emmanuel Gangler, Fabrice Jammes, Nicoleta Pauna, Pierre Antilogus, Pierre Astier, Claire Juramy, Aurélien Barrau, Johan Brégeon, Céline Combet, Marine Kuna, Johann Cohen-Tanugi, Marina Ricci, Rance Solomon, Philippe Gris, Andrea Jeremie, Nathan Amouroux, Kelian Sommer, Corentin Ravoux, Yassine Faris, Cyrille Rosset, Didier Verkindt, Antoine Bernard, Eduardo Barroso, Narei Lorenzo-Martinez, Vincent Reverdy, Tania Regimbau, Yves Zolnierowski, Marina Masson
+  Members: Dominique Boutigny, Sabine Elles, Thibault Guillemin, Fabio Hernandez, Fabrice Feinstein, Dominique Fouchez, Benjamin Racine, André Tilquin, Emmanuel Gangler, Fabrice Jammes, Nicoleta Pauna, Pierre Antilogus, Pierre Astier, Claire Juramy, Aurélien Barrau, Johan Brégeon, Céline Combet, Marine Kuna, Johann Cohen-Tanugi, Marina Ricci, Rance Solomon, Philippe Gris, Andrea Jeremie, Nathan Amouroux, Kelian Sommer, Corentin Ravoux, Yassine Faris, Cyrille Rosset, Didier Verkindt, Antoine Bernard, Eduardo Barroso, Narei Lorenzo-Martinez, Vincent Reverdy, Tania Regimbau, Yves Zolnierowski, Marina Masson, Dimitri Buffat, Laurent Magri-Stella
 
 
 **FRA-INP-S9:** *Science validation for object detection, weak lensing, and deblending*
 
   Point of Contact: Cyrille Doux
 
-  Members: Cyrille Doux, Eric Aubourg, Cécile Roucelle, Alexandre Boucaud, Justine Zeghal, Biswajit Biswas, Axel Guinot, Marina Ricci, Manon Ramel
+  Members: Cyrille Doux, Eric Aubourg, Cécile Roucelle, Alexandre Boucaud, Justine Zeghal, Biswajit Biswas, Axel Guinot, Marina Ricci, Manon Ramel, Eva Vuilloz
 
 
 **FRA-INP-S10:** *Camera hardware optimization*
