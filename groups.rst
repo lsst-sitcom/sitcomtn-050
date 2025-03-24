@@ -15,7 +15,7 @@ International In-Kind Contribution Program
 
   Point of Contact: Jérémy Neveu
 
-  Members: Jérémy Neveu, Laurent Le Guillou, Eduardo Sepulveda, Sylvain Baumont, Thierry Souverin, Enya Van den Abeele, Nathan Amouroux, Johan Bregeon, Angelo Lamure-Fontani
+  Members: Jérémy Neveu, Laurent Le Guillou, Eduardo Sepulveda, Sylvain Baumont, Thierry Souverin, Enya Van den Abeele, Nathan Amouroux, Johan Bregeon, Angelo Lamure-Fontanini
 
 
 **FRA-INP-S7:** *AuxTel support*
