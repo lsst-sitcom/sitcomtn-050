@@ -25,6 +25,7 @@ groups:
       - Enya Van den Abeele
       - Nathan Amouroux
       - Johan Bregeon
+      - Angelo Lamure-Fontanini
   FRA-INP-S7:
     contact: Marc Moniez
     contribution: AuxTel support
@@ -76,6 +77,8 @@ groups:
       - Tania Regimbau
       - Yves Zolnierowski
       - Marina Masson
+      - Dimitri Buffat
+      - Laurent Magri-Stella
   FRA-INP-S9:
     contact: Cyrille Doux
     contribution: Science validation for object detection, weak lensing, and deblending
@@ -89,6 +92,7 @@ groups:
       - Axel Guinot
       - Marina Ricci
       - Manon Ramel
+      - Eva Vuilloz
   FRA-INP-S10:
     contact: Alexandre Boucaud
     contribution: Camera hardware optimization
