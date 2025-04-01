@@ -159,7 +159,7 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
 
   Point of Contact: Matthew J Holman
 
-  Members: Matthew J. Holman, Zachary Murray
+  Members: Matthew J. Holman, Zachary Murray, Matthew Payne, Federica Spoto, Peter Veres
 
 
 **US/Chile-08:** *Science validation for astrometry*
