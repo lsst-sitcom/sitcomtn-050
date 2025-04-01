@@ -266,6 +266,9 @@ groups:
     members:
       - Matthew J. Holman
       - Zachary Murray
+      - Matthew Payne
+      - Federica Spoto
+      - Peter Veres
   US/Chile-08:
     contact: Dave Monet
     contribution: Science validation for astrometry
