@@ -412,6 +412,13 @@ groups:
     members:
       - Felipe Barrientos
       - Joaquin Hernandez
+  US/Chile-19:
+    contact: Julia Arias
+    contribution: Development of data-driven tools to support observatory performance analysis
+    members:
+      - Julia Arias
+      - Sergio Torres
+      - Diego Antonio Hurtado Olivares
   Duke University:
     contact: Chris Walter
     contribution: SIT-Com support

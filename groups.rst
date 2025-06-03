@@ -239,6 +239,13 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
   Members: Felipe Barrientos, Joaquin Hernandez
 
 
+**US/Chile-19:** *Development of data-driven tools to support observatory performance analysis*
+
+  Point of Contact: Julia Arias
+
+  Members: Julia Arias, Sergio Torres, Diego Antonio Hurtado Olivares
+
+
 Institutional Contributions to Rubin Observatory Construction
 -------------------------------------------------------------
 
