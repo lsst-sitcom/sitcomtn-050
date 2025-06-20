@@ -292,6 +292,13 @@ Institutional Contributions to Rubin Observatory Construction
   Members: Steve Ritz, Adrian Shestakov, Duncan Wood
 
 
+**University of California, Berkeley:** *SIT-Com support*
+
+  Point of Contact: Steven Kahn
+
+  Members: Steven Kahn, Peter Ma
+
+
 Voluntary International Contributions to Rubin Observatory Construction
 -----------------------------------------------------------------------
 

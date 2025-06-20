@@ -495,6 +495,12 @@ groups:
       - Steve Ritz
       - Adrian Shestakov
       - Duncan Wood
+  University of California, Berkeley:
+    contact: Steven Kahn
+    contribution: SIT-Com support
+    members:
+      - Steven Kahn
+      - Peter Ma
   Brazil:
     contact: Luiz DaCosta
     contribution: Visit database development
