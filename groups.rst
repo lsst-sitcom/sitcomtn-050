@@ -92,7 +92,7 @@ International In-Kind Contribution Program
 
   Point of Contact: Graham Smith
 
-  Members: Aaron Watkins, Jon Loveday, Graham Smith, Tom Wilson, Dan Ryczanowski, Gavin Dalton, Will Sutherland, Tim Naylor, Raphael Shirley, Nicholas Walton, Boris Leistedt, Behnood Bandi, Poshak Gandhi, Elham Saremi, Richard McMahon, Manda Banerji, Sugata Kaviraj, Chris Collins, Anupreeta More, Aprajita Verma, Kathy Romer, Paul Giles, Andres Ponte Perez, Suhail Dhawan, Reese Wilkinson
+  Members: Aaron Watkins, Jon Loveday, Graham Smith, Tom Wilson, Dan Ryczanowski, Gavin Dalton, Will Sutherland, Tim Naylor, Raphael Shirley, Nicholas Walton, Boris Leistedt, Behnood Bandi, Poshak Gandhi, Elham Saremi, Richard McMahon, Manda Banerji, Sugata Kaviraj, Chris Collins, Anupreeta More, Aprajita Verma, Kathy Romer, Paul Giles, Andres Ponte Perez, Suhail Dhawan, Reese Wilkinson, Tom Sedgwick
 
 
 **UKD-UKD-S7:** *Science validation for sensor characterization and PSF modelling*

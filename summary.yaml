@@ -183,6 +183,7 @@ groups:
       - Andres Ponte Perez
       - Suhail Dhawan
       - Reese Wilkinson
+      - Tom Sedgwick
   UKD-UKD-S7:
     contact: Ian Shipsey
     contribution: Science validation for sensor characterization and PSF modelling
