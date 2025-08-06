@@ -1,6 +1,12 @@
-:tocdepth: 2
+#########################################################################################################
+Summary of In-Kind Contributions to Rubin Observatory System Integration, Test, and Commissioning Efforts
+#########################################################################################################
 
-.. sectnum::
+.. abstract::
+
+   This technote summarizes the groups and individuals making in-kind contributions to SIT-Com
+
+
 
 .. Metadata such as the title, authors, and description are set in metadata.yaml
 
