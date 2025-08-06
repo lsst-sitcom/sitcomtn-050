@@ -1,0 +1,22 @@
+[technote]
+id = "SITCOMTN-050"
+series_id = "SITCOMTN"
+canonical_url = "https://sitcomtn-050.lsst.io/"
+github_url = "https://github.com/lsst-sitcom/sitcomtn-050"
+github_default_branch = "main"
+organization.name = "Vera C. Rubin Observatory"
+organization.ror = "https://ror.org/048g3cy84"
+license.id = "CC-BY-4.0"
+[[technote.authors]]
+name = {given = "Keith", family = "Bechtol"}
+internal_id = "bechtolk"
+orcid = "https://orcid.org/0000-0001-8156-0429"
+[[technote.authors.affiliations]]
+name = "Vera C. Rubin Observatory Project Office"
+internal_id = "RubinObs"
+ror = "https://ror.org/048g3cy84"
+
+[[technote.authors.affiliations]]
+name = "University of Wisconsin-Madison"
+internal_id = "WisconsinMadison"
+ror = "https://ror.org/01y2jtd41"
