@@ -242,10 +242,9 @@ groups:
       - Alexandra Amon
       - Chihway Chang
       - Andy Park
-      - Jazmine Jefferson
       - Yuuki Omori
-      - Aashay Pai
       - Katherine Laliotis
+      - Shrihan Agarwal
   US/Chile-05:
     contact: Matthew R. Becker
     contribution: Science validation for weak lensing shear estimation and development of advanced image coaddition methods
@@ -345,6 +344,7 @@ groups:
       - Conghao Zhou
       - Soren Helhoski
       - Andrew Engel
+      - Aashay Pai
   US/Chile-13:
     contact: Eric Gawiser
     contribution: Science validation for galaxy clustering analyses
