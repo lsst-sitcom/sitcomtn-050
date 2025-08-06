@@ -159,7 +159,7 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
 
   Point of Contact: Matthew J Holman
 
-  Members: Matthew J. Holman, Zachary Murray, Matthew Payne, Federica Spoto, Peter Veres
+  Members: Matthew J. Holman, Zachary Murray, Matthew Payne, Federica Spoto, Peter Veres, Kevin Napier, Meg Schwamb
 
 
 **US/Chile-08:** *Science validation for astrometry*
@@ -268,7 +268,7 @@ Institutional Contributions to Rubin Observatory Construction
 
   Point of Contact: Andy Connolly
 
-  Members: Andrew Connolly, John Franklin Crenshaw, Dino Bektesevic, Colin Chandler, Pedro Bernardinelli, Yuankun (David) Wang, Steven Stetzler, Jake Kurlander, Chester Li, Max West, Drew Oldag, Doug Branton, Karlo Mrakovcic, Audrey Budlong, Wilson Beebe, Michael Tauraso, Derek Jones, Sandro Campos, Jeremy Kubica, Sean McGuire, Aritra Ghosh, Anastasios (Andy) Tzanidakis
+  Members: Andrew Connolly, John Franklin Crenshaw, Dino Bektesevic, Colin Chandler, Pedro Bernardinelli, Yuankun (David) Wang, Steven Stetzler, Jake Kurlander, Chester Li, Max West, Drew Oldag, Doug Branton, Karlo Mrakovcic, Audrey Budlong, Wilson Beebe, Michael Tauraso, Derek Jones, Sandro Campos, Jeremy Kubica, Sean McGuire, Aritra Ghosh, Anastasios (Andy) Tzanidakis, Devanshi Singh, Ian Chow
 
 
 **University of Wisconsin-Madison:** *SIT-Com support*
