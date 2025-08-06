@@ -1,2 +1,1 @@
-documenteer[technote]
-sphinx<7.0.0
+documenteer[technote]>=2.0,<3
