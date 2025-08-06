@@ -184,6 +184,7 @@ groups:
       - Suhail Dhawan
       - Reese Wilkinson
       - Tom Sedgwick
+      - Ethan Steelberg
   UKD-UKD-S7:
     contact: Ian Shipsey
     contribution: Science validation for sensor characterization and PSF modelling
