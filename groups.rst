@@ -296,7 +296,7 @@ Institutional Contributions to Rubin Observatory Construction
 
   Point of Contact: Steven Kahn
 
-  Members: Steven Kahn, Peter Ma
+  Members: Steven Kahn, Peter Ma, Christine Corry
 
 
 Voluntary International Contributions to Rubin Observatory Construction
