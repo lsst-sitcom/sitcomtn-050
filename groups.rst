@@ -208,7 +208,7 @@ US/Chile Community Engagement with Rubin Observatory Commissioning Effort Progra
 
   Point of Contact: Elana Urbach
 
-  Members: Elana Urbach, Chris Stubbs, Eske Pedersen, Saurabh Jha, Conor Larison, Douglas Tucker, Matt Wiesner, Daniel Perrefort, Michael Wood-Vasey, Gautham Narayan, Konstantin Malanchev, Melissa Butner, J. Allyn Smith, Meagan Porter
+  Members: Elana Urbach, Chris Stubbs, Eske Pedersen, Saurabh Jha, Conor Larison, Douglas Tucker, Matt Wiesner, Daniel Perrefort, Michael Wood-Vasey, Gautham Narayan, Konstantin Malanchev, Melissa Butner, J. Allyn Smith, Meagan Porter, Anja Weyant
 
 
 **US/Chile-15:** *Support for commissioning data visualization and drill-down analysis*
