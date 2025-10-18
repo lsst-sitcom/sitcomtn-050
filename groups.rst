@@ -36,7 +36,7 @@ International In-Kind Contribution Program
 
   Point of Contact: Cyrille Doux
 
-  Members: Cyrille Doux, Eric Aubourg, Cécile Roucelle, Alexandre Boucaud, Justine Zeghal, Biswajit Biswas, Axel Guinot, Marina Ricci, Manon Ramel, Eva Vuilloz
+  Members: Cyrille Doux, Eric Aubourg, Cécile Roucelle, Alexandre Boucaud, Justine Zeghal, Biswajit Biswas, Axel Guinot, Marina Ricci, Manon Ramel, Eva Vuilloz, Samuel Mesquita
 
 
 **FRA-INP-S10:** *Camera hardware optimization*
