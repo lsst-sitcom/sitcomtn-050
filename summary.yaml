@@ -94,6 +94,7 @@ groups:
       - Marina Ricci
       - Manon Ramel
       - Eva Vuilloz
+      - Samuel Mesquita
   FRA-INP-S10:
     contact: Alexandre Boucaud
     contribution: Camera hardware optimization
@@ -327,6 +328,7 @@ groups:
       - Martin Millon
       - Shreya Anand
       - Jaemyoung (Jason) Lee
+      - Prajakta Mane
   US/Chile-12:
     contact: Ian Dell'Antonio
     contribution: Science validation for sky background modeling and low surface brightness science
